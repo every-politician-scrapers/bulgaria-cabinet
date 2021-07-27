@@ -13,7 +13,7 @@ class MemberList
     end
 
     field :position do
-      name_and_position.last
+      name_and_position.last.split (/ and (?=M)/)
     end
 
     private
@@ -26,7 +26,11 @@ class MemberList
   # The page listing all the members
   class Members < Scraped::HTML
     field :members do
-      member_container.map { |member| fragment(member => Member).to_h }
+      # 'position' is a list of 1 or more positions
+      member_container.flat_map do |member|
+        data = fragment(member => Member).to_h
+        data.delete(:position).map { |posn| data.merge(position: posn) }
+      end
     end
 
     private
