@@ -1,5 +1,20 @@
 {
-    "cabinet": "Q106803620",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/bulgaria-cabinet"
+    "jurisdiction": {
+      "name": "Bulgaria",
+      "id": "Q219"
+    },
+    "cabinet": {
+      "id": "Q106803620",
+      "start": "2021-05-12",
+      "parent": "Q2396053"
+    },
+    "source": {
+        "url":   "https://www.gov.bg/en/Cabinet/CABINET-MEMBERS",
+        "title": "CARETAKER CABINET MEMBERS",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/bulgaria-cabinet"
 }
