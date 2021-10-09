@@ -1,0 +1,16 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q9325482,Videnov Government,,,1995-01-25,11,,,1997-02-12,11,Q2396053,Council of Ministers,,,,,,,Q12291262,Indzhova Government,Q12291264,Sofiyanski Government
+,Q12291258,Q12291258,,,,,,,,,Q2396053,Council of Ministers,,,,,,,,,,
+,Q12291260,Q12291260,,,,,,,,,Q2396053,Council of Ministers,,,,,,,,,,
+78,Q9325376,Q9325376,1990-12-22,11,,,1991-11-08,11,,,Q2396053,Council of Ministers,,,,,,,,,Q12291259,Q12291259
+,Q12291259,Q12291259,1991-11-08,11,,,1992-12-30,11,,,Q2396053,Council of Ministers,,,,,,,Q9325376,Q9325376,Q9325415,Berov Government
+83,Q9325415,Berov Government,1992-12-30,11,,,1994-10-17,11,,,Q2396053,Council of Ministers,,,,,,,Q12291259,Q12291259,Q12291262,Indzhova Government
+83,Q9325415,Berov Government,1992-12-30,11,,,1994-10-17,11,,,Q3773998,technocratic government,,,,,,,Q12291259,Q12291259,Q12291262,Indzhova Government
+,Q12291262,Indzhova Government,1994-10-17,11,,,1995-01-25,11,,,Q2396053,Council of Ministers,,,,,,,Q9325415,Berov Government,Q9325482,Videnov Government
+,Q2818519,Sakskoburggotski Government,2001-07-24,11,,,2005-08-17,11,,,Q2396053,Council of Ministers,,,Q6357576,Kostov Government,Q2549637,Stanishev Cabinet,Q6357576,Kostov Government,Q2549637,Stanishev Cabinet
+,Q2549637,Stanishev Cabinet,2005-08-17,11,,,2009-07-27,11,,,Q2396053,Council of Ministers,,,Q2818519,Sakskoburggotski Government,Q1630185,Borisov Government,Q2818519,Sakskoburggotski Government,Q1630185,Borisov Government
+,Q1630185,Borisov Government,2009-07-27,11,,,2013-03-13,11,,,Q2396053,Council of Ministers,,,Q2549637,Stanishev Cabinet,Q10908333,Raykov Cabinet,Q2549637,Stanishev Cabinet,Q10908333,Raykov Cabinet
+,Q10908333,Raykov Cabinet,2013-03-13,11,,,2013-05-29,11,,,Q2396053,Council of Ministers,,,Q1630185,Borisov Government,Q13415415,Oresharski Government,Q1630185,Borisov Government,Q13415415,Oresharski Government
+,Q13415415,Oresharski Government,2013-05-29,11,,,2014-08-06,11,,,Q2396053,Council of Ministers,,,Q10908333,Raykov Cabinet,Q17486271,Bliznashki Government,Q10908333,Raykov Cabinet,,
+,Q29640995,Third Borisov Government,2017-05-04,11,2017-05-04,11,2021-05-12,11,,,Q2396053,Council of Ministers,,,Q28528119,Gerdzhikov Government,Q106803620,Yanev Government,Q28528119,Gerdzhikov Government,Q106803620,Yanev Government
+,Q106803620,Yanev Government,2021-05-12,11,2021-05-12,11,2021-09-16,11,2021-09-16,11,Q2396053,Council of Ministers,,,Q29640995,Third Borisov Government,Q108559722,2nd Yanev Government,Q29640995,Third Borisov Government,Q108559722,2nd Yanev Government
