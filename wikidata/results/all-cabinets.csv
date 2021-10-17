@@ -16,6 +16,6 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q10908333,Raykov Cabinet,2013-03-13,11,,,2013-05-29,11,,,Q2396053,Council of Ministers,,,Q1630185,Borisov Government,Q13415415,Oresharski Government,Q1630185,Borisov Government,Q13415415,Oresharski Government
 ,Q13415415,Oresharski Government,2013-05-29,11,,,2014-08-06,11,,,Q2396053,Council of Ministers,,,Q10908333,Raykov Cabinet,Q17486271,Bliznashki Government,Q10908333,Raykov Cabinet,,
 ,Q17486271,Bliznashki Government,2014-08-06,11,,,2014-11-07,11,,,Q2396053,Council of Ministers,,,Q13415415,Oresharski Government,Q18511647,Second Borisov Government,Q13415415,Oresharski Government,Q18511647,Second Borisov Government
-,Q29640995,Third Borisov Government,2017-05-04,11,2017-05-04,11,2021-05-12,11,,,Q2396053,Council of Ministers,,,Q28528119,Gerdzhikov Government,Q106803620,Yanev Government,Q28528119,Gerdzhikov Government,Q106803620,Yanev Government
-,Q106803620,Yanev Government,2021-05-12,11,2021-05-12,11,2021-09-16,11,2021-09-16,11,Q2396053,Council of Ministers,,,Q29640995,Third Borisov Government,Q108559722,2nd Yanev Government,Q29640995,Third Borisov Government,Q108559722,2nd Yanev Government
-,Q108559722,2nd Yanev Government,2021-09-16,11,,,,,,,Q2396053,Council of Ministers,,,Q106803620,Yanev Government,,,,,,
+,Q29640995,Third Borisov Government,2017-05-04,11,2017-05-04,11,2021-05-12,11,,,Q2396053,Council of Ministers,,,Q28528119,Gerdzhikov Government,Q106803620,First Yanev Government,Q28528119,Gerdzhikov Government,Q106803620,First Yanev Government
+,Q106803620,First Yanev Government,2021-05-12,11,2021-05-12,11,2021-09-16,11,2021-09-16,11,Q2396053,Council of Ministers,,,Q29640995,Third Borisov Government,Q108559722,2nd Yanev Government,Q29640995,Third Borisov Government,Q108559722,2nd Yanev Government
+,Q108559722,2nd Yanev Government,2021-09-16,11,,,,,,,Q2396053,Council of Ministers,,,Q106803620,First Yanev Government,,,,,,
