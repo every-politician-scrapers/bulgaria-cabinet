@@ -25,11 +25,6 @@
               "text": "Rumen Georgiev Radev (Румен Георгиев Радев ; born 18 June 1963) is a Bulgarian politician and former major general who is the current president of Bulgaria since 22 January 2017.",
               "links": [
                 {
-                  "text": "Bulgarian",
-                  "type": "internal",
-                  "page": "Bulgaria"
-                },
-                {
                   "text": "major general",
                   "type": "internal",
                   "page": "major general"
@@ -87,7 +82,11 @@
       ],
       "templates": [
         {
-          "description": "Bulgarian politician (born 1963)",
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "5th president of Bulgaria (2017–present)",
           "template": "short description"
         },
         {
@@ -110,6 +109,14 @@
           "template": "marriage"
         },
         {
+          "list": [
+            "Bulgarian Air Force University",
+            "Rakovski Military Academy",
+            "Air War College"
+          ],
+          "template": "ubl"
+        },
+        {
           "transcription": "ˈrumɛn ˈradɛf",
           "template": "ipa"
         }
@@ -124,9 +131,6 @@
                 "page": "His Excellency"
               }
             ]
-          },
-          "name": {
-            "text": "Rumen Radev"
           },
           "native_name": {
             "text": "Румен Радев"
@@ -196,21 +200,6 @@
                 "text": "Dimitrovgrad",
                 "type": "internal",
                 "page": "Dimitrovgrad, Bulgaria"
-              },
-              {
-                "text": "Bulgaria",
-                "type": "internal",
-                "page": "People's Republic of Bulgaria"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Bulgarian",
-            "links": [
-              {
-                "text": "Bulgarian",
-                "type": "internal",
-                "page": "Bulgaria"
               }
             ]
           },
@@ -237,43 +226,14 @@
             "text": "Ginka Radeva (m. 1996-2014)\n\nDesislava Radeva (m. 2016)"
           },
           "children": {
-            "text": "2 (Darina and Georgi)"
+            "text": "2",
+            "number": 2
           },
-          "alma_mater": {
-            "text": "Bulgarian Air Force University\nRakovski Military Academy\nAir War College",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bulgarian Air Force University"
-              },
-              {
-                "text": "Rakovski Military Academy",
-                "type": "internal",
-                "page": "Georgi Rakovski Military Academy"
-              },
-              {
-                "type": "internal",
-                "page": "Air War College"
-              }
-            ]
-          },
-          "allegiance": {
-            "text": "People's Republic of Bulgaria\n🇧🇬 Bulgaria",
-            "links": [
-              {
-                "text": "People's Republic of Bulgaria",
-                "type": "internal",
-                "page": "undefined"
-              },
-              {
-                "text": "Bulgaria",
-                "type": "internal",
-                "page": "bulgaria"
-              }
-            ]
+          "education": {
+            "text": "Bulgarian Air Force University\n\nRakovski Military Academy\n\nAir War College"
           },
           "branch": {
-            "text": "Roundel of Bulgaria.svg Bulgarian Air Force",
+            "text": "Bulgarian Air Force",
             "links": [
               {
                 "type": "internal",
@@ -469,13 +429,13 @@
         {
           "sentences": [
             {
-              "text": "On February 1, 2021, he officially announced that he and Iliana Yotova would run for a second term."
+              "text": "On 1 February 2021, he officially announced that he and Iliana Yotova would run for a second term."
             },
             {
-              "text": "The presidential election is scheduled for November 14, 2021."
+              "text": "The presidential election is scheduled for 14 November 2021."
             },
             {
-              "text": "On November 14, 2021, 1,322,385 Bulgarians voted for the presidential couple Rumen Radev - Iliana Yotova and received 49.42% of the presidential vote, which sent them to the second round (runoff on November 21, 2021) with the presidential couple Anastas Gerdjikov - Nevyana Miteva (22.83%)"
+              "text": "On 14 November 2021, 1,322,385 Bulgarians voted for the presidential couple Rumen Radev - Iliana Yotova and received 49.42% of the presidential vote, which sent them to the second round (runoff on 21 November 2021) with the presidential couple Anastas Gerdjikov - Nevyana Miteva (22.83%)"
             }
           ]
         }
@@ -548,6 +508,17 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "last": "Anderson",
+          "first": "Emma",
+          "title": "Bulgaria’s President Rumen Radev wins second term",
+          "url": "https://www.politico.eu/article/bulgarias-president-rumen-radev-to-win-second-term-exit-polls/",
+          "website": "Politico.eu",
+          "publisher": "Politico Europe",
+          "access-date": "22 November 2021",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -651,7 +622,7 @@
           "last": "Епицентър",
           "website": "epicenter.bg",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         },
@@ -660,7 +631,7 @@
           "title": "Радев за субсидия 1 лев на глас: Задушава опозицията",
           "website": "Vesti.bg",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         },
@@ -669,7 +640,7 @@
           "title": "Две години Радев: какво разбрахме за президента",
           "website": "www.dw.com",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         },
@@ -678,7 +649,7 @@
           "title": "Президентът Радев се очертава рекордьор по налагане на вето",
           "website": "www.dnevnik.bg",
           "language": "bg",
-          "access-date": "2019-10-20",
+          "access-date": "20 October 2019",
           "template": "citation",
           "type": "web"
         },
@@ -686,10 +657,10 @@
           "url": "https://news.bg/politics/borisov-se-vazmuti-vsyako-izkazvane-na-radev-e-protiv-upravlenieto.html",
           "title": "Борисов се възмути: Всяко изказване на Радев е против управлението",
           "last": "news.bg",
-          "date": "2019-05-09",
+          "date": "9 May 2019",
           "website": "News.bg",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         },
@@ -697,7 +668,7 @@
           "url": "https://www.webcafe.bg/newscafe/politika/id_1562940051_Borisov_Radev_opita_da_napravi_predizboren_podarak_na_BSP",
           "title": "Борисов: Радев опита да направи предизборен подарък на БСП {{!}} webcafe.bg",
           "website": "www.webcafe.bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         },
@@ -706,7 +677,7 @@
           "title": "Новогодишно обръщение на президента Румен Радев",
           "website": "President.bg",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         },
@@ -715,7 +686,7 @@
           "title": "Недоволство в новогодишната реч на президента",
           "website": "Недоволство в новогодишната реч на президента - Политика - Стандарт Нюз",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         }
@@ -792,7 +763,7 @@
           "title": "Радев наложи вето на сделката за Ф-16, вижте защо",
           "website": "Vesti.bg",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         },
@@ -803,7 +774,7 @@
           "first": "Александър",
           "website": "Новини БНТ",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         },
@@ -812,7 +783,7 @@
           "title": "НС отхвърли ветото за Ф-16, ще купуваме изтребителите",
           "website": "Vesti.bg",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         },
@@ -821,7 +792,7 @@
           "title": "Отново напрежение сред управляващите заради F-16 (ОБЗОР) - България",
           "website": "dariknews.bg",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         }
@@ -865,7 +836,7 @@
           "file": "File:Rumen Radev and Donald Trump, Paris, 2018.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Rumen_Radev_and_Donald_Trump%2C_Paris%2C_2018.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Rumen_Radev_and_Donald_Trump%2C_Paris%2C_2018.jpg",
-          "caption": "Radev with Donald Trump, Paris, 2018",
+          "caption": "Radev with U.S. President Donald Trump, Paris, 2018",
           "links": []
         }
       ],
@@ -875,10 +846,10 @@
           "title": "Президентът Радев отказа да назначи Гешев за главен прокурор",
           "last": "Ганчев",
           "first": "Невелин",
-          "date": "2019-11-07",
+          "date": "7 November 2019",
           "website": "Breaking.bg",
           "language": "bg-BG",
-          "access-date": "2020-01-03",
+          "access-date": "3 January 2020",
           "template": "citation",
           "type": "web"
         },
@@ -886,17 +857,17 @@
           "url": "https://faktor.bg/bg/articles/novini-balgariya-r-radev-otkaza-da-podpishe-ukaz-za-naznachavaneto-na-geshev-za-glaven-prokuror",
           "title": "Радев отказа да подпише указ за назначаването на Гешев за главен прокурор",
           "website": "Фактор",
-          "access-date": "2020-01-03",
+          "access-date": "3 January 2020",
           "template": "citation",
           "type": "web"
         },
         {
           "url": "https://news.lex.bg/%d0%bf%d1%80%d0%b5%d0%b7%d0%b8%d0%b4%d0%b5%d0%bd%d1%82%d1%8a%d1%82-%d0%be%d1%82%d0%ba%d0%b0%d0%b7%d0%b0-%d0%b4%d0%b0-%d0%bf%d0%be%d0%b4%d0%bf%d0%b8%d1%88%d0%b5-%d1%83%d0%ba%d0%b0%d0%b7-%d0%b7%d0%b0/",
           "title": "Президентът отказа да подпише указ за назначаването на Иван Гешев за главен прокурор",
-          "date": "2019-11-07",
+          "date": "7 November 2019",
           "website": "Lex.bg News",
           "language": "bg-BG",
-          "access-date": "2020-01-03",
+          "access-date": "3 January 2020",
           "template": "citation",
           "type": "web"
         },
@@ -905,7 +876,7 @@
           "title": "Гешев е повторно избран за главен прокурор след скандали, обвинения и заплахи. На ход е президентът",
           "website": "Mediapool.bg",
           "language": "bg-BG",
-          "access-date": "2020-01-03",
+          "access-date": "3 January 2020",
           "template": "citation",
           "type": "web"
         },
@@ -914,7 +885,7 @@
           "title": "Радев подписа указа за Гешев, иска промяна в Конституцията",
           "website": "Vesti.bg",
           "language": "bg",
-          "access-date": "2020-01-03",
+          "access-date": "3 January 2020",
           "template": "citation",
           "type": "web"
         }
@@ -986,9 +957,9 @@
         {
           "url": "http://www.intellinews.com/conflict-between-bulgaria-s-president-chief-prosecutor-escalates-after-incriminating-wiretaps-released-175550/",
           "title": "Conflict between Bulgaria's president, chief prosecutor escalates after incriminating wiretaps released {{!}} bne IntelliNews",
-          "date": "2020-01-29",
+          "date": "29 January 2020",
           "website": "www.intellinews.com",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -996,7 +967,7 @@
           "url": "https://btvnovinite.bg/bulgaria/podslushani-razgovori-konfliktat-mezhdu-radev-i-geshev-navleze-v-nova-faza-obzor.html",
           "title": "Подслушани разговори: Конфликтът между Радев и Гешев навлезе в нова фаза (ОБЗОР)",
           "website": "bTV Новините",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1005,7 +976,7 @@
           "title": "President Radev: Prime Minister Borissov Uses Services for His Political Purposes",
           "website": "www.bta.bg",
           "language": "en-EN",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1013,7 +984,7 @@
           "url": "https://www.24chasa.bg/novini/article/8199036",
           "title": "Борисов изненада Радев, подаде му ръка, вижте (Видео, снимки)",
           "website": "www.24chasa.bg",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1022,7 +993,7 @@
           "title": "President Radev asks why Bulgaria's Prosecutor General sees crime and corruption everywhere but not in the Council of Ministers",
           "website": "www.bnr.bg",
           "language": "en",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         }
@@ -1057,10 +1028,10 @@
         {
           "url": "https://balkaneu.com/bulgaria-clash-of-institutions-for-radev-and-borissov/",
           "title": "Bulgaria: Clash of institutions for Radev and Borissov",
-          "date": "2020-02-04",
+          "date": "4 February 2020",
           "website": "Independent Balkan News Agency",
           "language": "en-US",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1068,7 +1039,7 @@
           "url": "https://europost.eu/en/a/view/pm-borissov-president-s-statement-disunite-the-nation-27229",
           "title": "PM Borissov: President's statement disunites the nation",
           "website": "europost.eu",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         }
@@ -1152,7 +1123,7 @@
               ]
             },
             {
-              "text": "Some sources alleged that Radev had been aware of that prior to travelling, while the president accused political opponents of deliberately orchestrating a campaign against him in order to tarnish his image, displaying a negative PRC test he had obtained prior to his official trip."
+              "text": "Some sources alleged that Radev had been aware of that prior to travelling, while the president accused political opponents of deliberately orchestrating a campaign against him in order to tarnish his image, displaying a negative PCR test he had obtained prior to his official trip."
             }
           ]
         }
@@ -1163,7 +1134,7 @@
           "title": "Борисов и Радев обсъдили ситуацията с коронавируса у нас {{!}} Dnes.bg",
           "website": "www.dnes.bg",
           "language": "bg",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1174,7 +1145,7 @@
           "first": "Osservatorio Balcani e",
           "website": "Osservatorio Balcani e Caucaso",
           "language": "it",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1185,7 +1156,7 @@
           "first": "Телевизия",
           "website": "Телевизия Евроком",
           "language": "en",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1194,7 +1165,7 @@
           "title": "Борисов: Президентът говори нелепици, да наложи вето на извънредното положение",
           "website": "www.dnevnik.bg",
           "language": "bg",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1203,8 +1174,8 @@
           "title": "Bulgarian President To Be Quarantined Following Coronavirus Exposure",
           "website": "rferl.org",
           "language": "en",
-          "date": "2020-10-20",
-          "access-date": "2021-01-31",
+          "date": "20 October 2020",
+          "access-date": "31 January 2021",
           "template": "citation",
           "type": "web"
         },
@@ -1215,8 +1186,8 @@
           "first": "Petar",
           "website": "dw.com",
           "language": "bg",
-          "date": "2020-10-21",
-          "access-date": "2021-01-31",
+          "date": "21 October 2020",
+          "access-date": "31 January 2021",
           "template": "citation",
           "type": "web"
         }
@@ -1287,7 +1258,7 @@
           "date": "18 June 2020",
           "title": "A Gun on a Nightstand and Wads of Cash Escalate Bulgarian Feud",
           "url": "https://www.bloomberg.com/news/articles/2020-06-18/a-gun-on-a-nightstand-and-wads-of-cash-escalate-bulgarian-feud",
-          "access-date": "2020-07-20",
+          "access-date": "20 July 2020",
           "website": "www.bloomberg.com",
           "template": "citation",
           "type": "web"
@@ -1297,10 +1268,10 @@
           "first1": "Georgi",
           "last2": "Nikolov",
           "first2": "Krassen",
-          "date": "2020-06-18",
+          "date": "18 June 2020",
           "title": "Borissov fends off 'kompromats', says will sleep with a gun",
           "url": "https://www.euractiv.com/section/justice-home-affairs/news/borissov-fends-off-kompromats-says-will-sleep-with-a-gun/",
-          "access-date": "2020-07-20",
+          "access-date": "20 July 2020",
           "website": "www.euractiv.com",
           "language": "en-GB",
           "template": "citation",
@@ -1311,21 +1282,21 @@
           "first1": "Boryana",
           "last2": "Kingsley",
           "first2": "Patrick",
-          "date": "2020-07-19",
+          "date": "19 July 2020",
           "title": "Showdown on Beach in Bulgaria Balloons Into Political Crisis",
           "language": "en-US",
           "work": "The New York Times",
           "url": "https://www.nytimes.com/2020/07/19/world/europe/bulgaria-protests.html",
-          "access-date": "2020-07-20",
+          "access-date": "20 July 2020",
           "issn": "0362-4331",
           "template": "citation",
           "type": "news"
         },
         {
-          "date": "2020-06-18",
+          "date": "18 June 2020",
           "title": "Bedroom Photos Leave Bulgarian Prime Minister Red-faced",
           "url": "https://balkaninsight.com/2020/06/18/bulgarian-prime-minister-enters-a-survival-mode/",
-          "access-date": "2020-07-20",
+          "access-date": "20 July 2020",
           "website": "Balkan Insight",
           "language": "en-US",
           "template": "citation",
@@ -1375,10 +1346,10 @@
       ],
       "references": [
         {
-          "date": "2020-07-11",
+          "date": "11 July 2020",
           "title": "Bulgaria: PM Borissov and government urged to resign by president",
           "url": "https://www.euronews.com/2020/07/11/bulgaria-president-calls-for-borissov-and-government-to-resign-amid-anti-corruption-protes",
-          "access-date": "2020-07-23",
+          "access-date": "23 July 2020",
           "website": "euronews",
           "language": "en",
           "template": "citation",
@@ -1553,7 +1524,7 @@
           "title": "Радев повтори: Санкциите срещу Русия не помагат, само вредят",
           "website": "Vesti.bg",
           "language": "bg",
-          "access-date": "2020-01-03",
+          "access-date": "3 January 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1562,7 +1533,7 @@
           "title": "Румен Радев: Намесата на Турция е абсолютно недопустима",
           "website": "Vesti.bg",
           "language": "bg",
-          "access-date": "2020-01-03",
+          "access-date": "3 January 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1570,7 +1541,7 @@
           "url": "http://www.president.bg/news4525/rumen-radev-turkey-is-bulgarias-important-neighbor-partner-and-ally-and-it-is-essential-for-our-bilateral-relations-that-we-do-not-leave-unsolved-problems.html",
           "title": "Румен Радев: Турция е важен съсед, партньор и съюзник на България и за нашите двустранни отношения е важно да не оставяме нерешени въпроси",
           "website": "President.bg",
-          "access-date": "2020-01-03",
+          "access-date": "3 January 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1596,7 +1567,7 @@
           "first": "Вера",
           "website": "Новини БНТ",
           "language": "bg",
-          "access-date": "2020-01-03",
+          "access-date": "3 January 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1605,7 +1576,7 @@
           "title": "Румен Радев призова за \"по-малко оръжия и повече диалог\" - България",
           "website": "dariknews.bg",
           "language": "bg",
-          "access-date": "2020-01-03",
+          "access-date": "3 January 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1614,7 +1585,7 @@
           "title": "Радев поиска България да не подкрепя опозицията във Венецуела",
           "website": "Mediapool.bg",
           "language": "bg-BG",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         },
@@ -1623,7 +1594,7 @@
           "title": "Радев атакува Борисов, сравни България с Венецуела",
           "website": "Vesti.bg",
           "language": "bg",
-          "access-date": "2019-08-21",
+          "access-date": "21 August 2019",
           "template": "citation",
           "type": "web"
         }
@@ -1679,7 +1650,7 @@
           "url": "https://fakti.bg/bulgaria/280871-galap-stabilen-reiting-za-rumen-radev",
           "title": "\"Галъп\": Стабилен рейтинг за Румен Радев",
           "website": "Fakti.bg - Да извадим фактите наяве",
-          "access-date": "2019-10-20",
+          "access-date": "20 October 2019",
           "template": "citation",
           "type": "web"
         },
@@ -1688,7 +1659,7 @@
           "title": "Президентът Радев – отличник по рейтинг. А евентуалната му партия? {{!}} Dnes.bg",
           "website": "www.dnes.bg",
           "language": "bg",
-          "access-date": "2019-10-20",
+          "access-date": "20 October 2019",
           "template": "citation",
           "type": "web"
         },
@@ -1696,7 +1667,7 @@
           "url": "https://www.webcafe.bg/id_267799130",
           "title": "\"Галъп\": С най-високо доверие сред политиците са Радев и Манолова {{!}} webcafe.bg",
           "website": "www.webcafe.bg",
-          "access-date": "2019-10-20",
+          "access-date": "20 October 2019",
           "template": "citation",
           "type": "web"
         },
@@ -1705,7 +1676,7 @@
           "title": "\"Галъп\": Румен Радев, Мая Манолова и Слави Трифонов - с най-висок рейтинг",
           "website": "Glasove.com",
           "language": "bg",
-          "access-date": "2019-10-20",
+          "access-date": "20 October 2019",
           "template": "citation",
           "type": "web"
         },
@@ -1713,10 +1684,10 @@
           "url": "https://news.bg/politics/reytingat-na-borisov-3-izticha-bavno-no-neotmenno.html",
           "title": "Рейтингът на Борисов - 3 изтича бавно, но неотменно",
           "last": "news.bg",
-          "date": "2019-08-01",
+          "date": "1 August 2019",
           "website": "News.bg",
           "language": "bg",
-          "access-date": "2019-10-20",
+          "access-date": "20 October 2019",
           "template": "citation",
           "type": "web"
         },
@@ -1727,7 +1698,7 @@
           "first": "Димитър",
           "website": "RC Trend",
           "language": "bg-BG",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         }
@@ -1830,7 +1801,7 @@
           "first": "От Павлина",
           "website": "Труд",
           "language": "bg-BG",
-          "access-date": "2020-04-20",
+          "access-date": "20 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1839,7 +1810,7 @@
           "title": "Бил ли е Румен Радев член на БКП?",
           "website": "www.dunavmost.com",
           "language": "bg",
-          "access-date": "2020-04-20",
+          "access-date": "20 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1848,7 +1819,7 @@
           "title": "БСП издига ген. Радев с инициативен комитет вместо като партиен кандидат",
           "website": "Mediapool.bg",
           "language": "bg-BG",
-          "access-date": "2020-04-20",
+          "access-date": "20 April 2020",
           "template": "citation",
           "type": "web"
         },
@@ -1856,7 +1827,7 @@
           "url": "https://www.euractiv.com/section/energy/news/radev-pleads-in-moscow-for-bulgarian-stream-pipeline/",
           "title": "Radev, a former pilot of Russian MIG 29 jet fighters who is fluent in Russian and English, insists that as a NATO general his loyalty is with Bulgaria's allies",
           "website": "Euractiv",
-          "access-date": "May 27, 2018",
+          "access-date": "27 May 2018",
           "template": "citation",
           "type": "web"
         },
@@ -1865,7 +1836,7 @@
           "title": "Briefs",
           "website": "Qatar-Tribune",
           "language": "en-US",
-          "access-date": "2020-04-17",
+          "access-date": "17 April 2020",
           "template": "citation",
           "type": "web"
         }
