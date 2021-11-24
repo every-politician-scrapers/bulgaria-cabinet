@@ -76,6 +76,16 @@
                   "page": "Tsetska Tsacheva"
                 }
               ]
+            },
+            {
+              "text": "He won a second consecutive term in the 2021 Bulgarian General Election, with 2/3 of the vote in the second round.",
+              "links": [
+                {
+                  "text": "2021 Bulgarian General Election",
+                  "type": "internal",
+                  "page": "2021 Bulgarian general election"
+                }
+              ]
             }
           ]
         }
@@ -279,6 +289,27 @@
           "access-date": "24 November 2016",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Bulgaria votes in presidential runoff amid anti-corruption agenda",
+          "url": "https://www.aljazeera.com/news/2021/11/21/bulgaria-votes-in-presidential-runoff-election",
+          "access-date": "2021-11-23",
+          "website": "www.aljazeera.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Tsolova",
+          "first": "Tsvetelia",
+          "date": "2021-11-21",
+          "title": "Bulgarian President Radev wins second term on anti-corruption ticket",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/europe/tired-rampant-graft-bulgarians-vote-presidential-election-2021-11-21/",
+          "access-date": "2021-11-23",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -432,10 +463,53 @@
               "text": "On 1 February 2021, he officially announced that he and Iliana Yotova would run for a second term."
             },
             {
-              "text": "The presidential election is scheduled for 14 November 2021."
+              "text": "The presidential election happened on 14 November 2021."
             },
             {
-              "text": "On 14 November 2021, 1,322,385 Bulgarians voted for the presidential couple Rumen Radev - Iliana Yotova and received 49.42% of the presidential vote, which sent them to the second round (runoff on 21 November 2021) with the presidential couple Anastas Gerdjikov - Nevyana Miteva (22.83%)"
+              "text": "Prior to the election, several parties declared their support for Radev, including ITN, PP and BSPzB.",
+              "links": [
+                {
+                  "text": "ITN",
+                  "type": "internal",
+                  "page": "There Is Such a People"
+                },
+                {
+                  "text": "PP",
+                  "type": "internal",
+                  "page": "We Continue the Change"
+                },
+                {
+                  "text": "BSPzB",
+                  "type": "internal",
+                  "page": "BSP for Bulgaria"
+                }
+              ]
+            },
+            {
+              "text": "Radev received 1,322,385 votes in the first round, alongside his running partner Iliana Yotova, 49.42% of the vote.",
+              "links": [
+                {
+                  "text": "Iliana Yotova",
+                  "type": "internal",
+                  "page": "Iliana Iotova"
+                }
+              ]
+            },
+            {
+              "text": "This led to a second round run-off with the GERB-supported candidate Anastas Gerdzhikov, who got 22.83% of the vote in the first round.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "GERB"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anastas Gerdzhikov"
+                }
+              ]
+            },
+            {
+              "text": "Radev won in the run-off, with 66.7% of the vote, starting his second term as president."
             }
           ]
         }
@@ -1314,7 +1388,7 @@
               "text": "In July 2020, agents of Chief Prosecutor Geshev entered the presidency and detained several of the president's advisors."
             },
             {
-              "text": "This, alongside the photo scandal and an incident on a Burgas beach significantly impacted the credibility Borisov's government, leading to the beginning of large-scale anti-government protests, which Radev openly supported.",
+              "text": "This, alongside the photo scandal and an incident on a Burgas beach significantly impacted the credibility of Borisov's government, leading to the beginning of large-scale anti-government protests, which Radev openly supported.",
               "links": [
                 {
                   "text": "large-scale anti-government protests",
