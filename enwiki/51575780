@@ -586,7 +586,7 @@
         {
           "last": "Anderson",
           "first": "Emma",
-          "title": "Bulgaria’s President Rumen Radev wins second term",
+          "title": "Bulgaria's President Rumen Radev wins second term",
           "url": "https://www.politico.eu/article/bulgarias-president-rumen-radev-to-win-second-term-exit-polls/",
           "website": "Politico.eu",
           "publisher": "Politico Europe",
@@ -1238,6 +1238,7 @@
           "url": "https://www.dnevnik.bg/bulgaria/2020/04/03/4050128_borisov_prezidentut_govori_nelepici_da_naloji_veto_na/",
           "title": "Борисов: Президентът говори нелепици, да наложи вето на извънредното положение",
           "website": "www.dnevnik.bg",
+          "date": "3 April 2020",
           "language": "bg",
           "access-date": "17 April 2020",
           "template": "citation",
@@ -1741,6 +1742,7 @@
           "url": "https://www.webcafe.bg/id_267799130",
           "title": "\"Галъп\": С най-високо доверие сред политиците са Радев и Манолова {{!}} webcafe.bg",
           "website": "www.webcafe.bg",
+          "date": "August 2019",
           "access-date": "20 October 2019",
           "template": "citation",
           "type": "web"
@@ -1901,6 +1903,7 @@
           "url": "https://www.euractiv.com/section/energy/news/radev-pleads-in-moscow-for-bulgarian-stream-pipeline/",
           "title": "Radev, a former pilot of Russian MIG 29 jet fighters who is fluent in Russian and English, insists that as a NATO general his loyalty is with Bulgaria's allies",
           "website": "Euractiv",
+          "date": "22 May 2018",
           "access-date": "27 May 2018",
           "template": "citation",
           "type": "web"
