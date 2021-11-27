@@ -1,5 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q106928671,Andrey Kuzmanov,Andrej Kuzmanow,male,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q25478062,Minister of Youth and Sports,Q106928671-77D388D5-CDA4-4B9D-9831-78DA3DC185B1
+Q106928671,Andrey Kuzmanov,Andrej Kuzmanow,male,1959-03-04T00:00:00Z,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q25478062,Minister of Youth and Sports,Q106928671-77D388D5-CDA4-4B9D-9831-78DA3DC185B1
 Q106928598,Andrey Zhivkov,Andrey Zhivkov,male,1971-01-01T00:00:00Z,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q20499298,Minister of Energy,Q106928598-961F1B5B-1D78-470F-9ADB-3A7F6CEBA968
 Q106809260,Asen Lichev,Asen Lichev,male,1952-01-01T00:00:00Z,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q25478077,Minister of Environment and Water,Q106809260-2B075E84-7939-4AC6-A0AB-401ED40D85EE
 Q106801369,Atanas Pekanov,Atanas Pekanow,male,1991-01-01T00:00:00Z,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q107657668,Deputy Prime Minister for EU Funds Management,Q106801369-DE512332-4062-451F-9F6D-29C06E38691D
@@ -17,6 +17,6 @@ Q28055319,Stefan Janev,Stefan Janev,male,1960-03-01T00:00:00Z,11,,Q4404583,Prime
 Q51077234,Stela Baltova,Stela Baltova,female,1961-01-01T00:00:00Z,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q107657650,Minister of Tourism,Q51077234-ACFA8BD6-6829-48EC-B70E-62E85A269A8C
 Q12295434,Stoicho Katsarov,Stoycho Katsarov,male,1964-06-06T00:00:00Z,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q25478063,Minister of Health,Q12295434-2EBE0FE3-2470-4C6D-8013-2EACFE358355
 Q106812725,Svetlan Stoev,Svetlan Stoev,male,1960-08-30T00:00:00Z,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q15916856,Minister of Foreign Affairs,Q106812725-28B3471F-29DC-4EE8-A9E4-A98D4FBBFA6B
-Q108560298,Valeri Belchev,Valeri Belchev,male,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q20675830,Minister of Finance,Q108560298-6614866D-2C13-44E2-9008-589B7A386306
+Q108560298,Valeri Belchev,Valeri Belchev,male,1974-09-06T00:00:00Z,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q20675830,Minister of Finance,Q108560298-6614866D-2C13-44E2-9008-589B7A386306
 Q58660831,Velislav Minekov,Velislav Minekov,male,1959-03-27T00:00:00Z,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q25478046,Minister of Culture,Q58660831-8D994254-8379-4DFF-A5F6-263A8D38ADE5
-Q106925428,Violeta Komitova,Violeta Komitova,female,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q107657466,Minister of Regional Development and Public Works,Q106925428-C52F6862-DADD-4CA5-A206-6F904E56864F
+Q106925428,Violeta Komitova,Violeta Komitova,female,1957-03-18T00:00:00Z,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,Q107657466,Minister of Regional Development and Public Works,Q106925428-C52F6862-DADD-4CA5-A206-6F904E56864F
