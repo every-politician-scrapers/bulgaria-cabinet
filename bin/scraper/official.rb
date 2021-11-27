@@ -5,8 +5,7 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 
 class MemberList
-  # details for an individual member
-  class Member < Scraped::HTML
+  class Member
     field :name do
       name_and_position.first
     end
@@ -22,8 +21,7 @@ class MemberList
     end
   end
 
-  # The page listing all the members
-  class Members < Scraped::HTML
+  class Members
     field :members do
       # 'position' is a list of 1 or more positions
       member_container.flat_map do |member|
