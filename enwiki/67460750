@@ -140,16 +140,25 @@
             ]
           },
           "party": {
-            "text": "There Is Such People",
+            "text": "There Is Such a People",
             "links": [
               {
                 "type": "internal",
-                "page": "There Is Such People"
+                "page": "There Is Such a People"
               }
             ]
           },
           "occupation": {
             "text": "Lawyer"
+          },
+          "successor": {
+            "text": "Nikola Minchev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikola Minchev"
+              }
+            ]
           }
         }
       ]
