@@ -62,6 +62,19 @@
           "template": "short description"
         },
         {
+          "list": [
+            "the Bulgarian general",
+            "the Bulgarian footbaler",
+            "Stefan Yanev (footballer)"
+          ],
+          "template": "about"
+        },
+        {
+          "1": "Stefan Yanev",
+          "2": "Talk:Stefan Yanev (general)#Requested move 9 December 2021",
+          "template": "user:rmcd bot/subject notice"
+        },
+        {
           "date": "June 2021",
           "template": "blp sources"
         },
