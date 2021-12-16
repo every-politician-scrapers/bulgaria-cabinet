@@ -13,7 +13,7 @@ Prime Minister,Georgi Bliznashki,Q5547113,2014-08-06,2014-11-07,male,1956-10-04,
 Prime Minister,Boyko Borisov,Q57775,2014-11-07,2017-01-27,male,1959-06-13,,Tallinn Digital Summit Arrivals Boyko Borisov Cropped.jpg,Boyko Borisov
 Prime Minister,Ognyan Gerdzhikov,Q12289150,2017-01-27,2017-05-04,male,1946-03-19,,Ognyan Gerdzhikov.jpg,Ognyan Gerdzhikov
 Prime Minister,Boyko Borisov,Q57775,2017-05-04,2021-05-12,male,1959-06-13,,Tallinn Digital Summit Arrivals Boyko Borisov Cropped.jpg,Boyko Borisov
-Prime Minister,Stefan Janev,Q28055319,2021-05-12,,male,1960-03-01,,Stefan Yanev.jpg,Stefan Yanev (general)
+Prime Minister,Stefan Janev,Q28055319,2021-05-12,2021-12-13,male,1960-03-01,,Stefan Yanev.jpg,Stefan Yanev (general)
 Prime Minister,Kiril Petkov,Q106928258,2021-12-13,,male,1980-04-17,,Кирил Петков (screenshot).png,Kiril Petkov (politician)
 Deputy Prime Minister,Iliyana Tsanova,Q63341251,2013-03-13,2013-05-29,female,1976-01-19,,"High-level conference, dedicated to EU cohesion policy Arrival (42665171841).jpg",
 Deputy Prime Minister,Iliyana Tsanova,Q63341251,2014-08-06,2014-11-07,female,1976-01-19,,"High-level conference, dedicated to EU cohesion policy Arrival (42665171841).jpg",
@@ -23,8 +23,8 @@ Deputy Prime Minister,Denitsa Zlateva,Q63412045,2017-01-27,2017-05-04,female,197
 Deputy Prime Minister for Economic and Social Policies,Gulub Donev,Q31192182,2021-05-12,2021-09-16,male,1967,,,
 Deputy Prime Minister for EU Funds Management,Atanas Pekanow,Q106801369,2021-05-12,,male,1991,,,
 Deputy Prime Minister for EU Funds Management,Atanas Pekanow,Q106801369,2021-05-12,2021-09-16,male,1991,,,
-Deputy Prime Minister for Public Order and Security,Boyko Rashkov,Q28599818,2021-05-12,2021-09-16,male,1954-09-28,,Boijko Rashkov.png,
 Deputy Prime Minister for Public Order and Security,Boyko Rashkov,Q28599818,2021-05-12,,male,1954-09-28,,Boijko Rashkov.png,
+Deputy Prime Minister for Public Order and Security,Boyko Rashkov,Q28599818,2021-05-12,2021-09-16,male,1954-09-28,,Boijko Rashkov.png,
 "Minister of Agriculture, Food and Forestry",Hristo Bozukov,Q31192046,2017-01-27,2017-05-04,male,1960-01-14,,,
 "Minister of Agriculture, Food and Forestry",Hristo Bozukov,Q31192046,2021-05-12,,male,1960-01-14,,,
 "Minister of Agriculture, Food and Forestry",Hristo Bozukov,Q31192046,2021-05-12,2021-09-16,male,1960-01-14,,,
@@ -36,8 +36,12 @@ Minister of Culture,Rashko Mladenov,Q12292199,2017-01-27,2017-05-04,male,1947-02
 Minister of Culture,Boil Banov,Q42405440,2017-05-04,2021-05-12,male,1971-05-26,,Boil Banov.jpg,
 Minister of Culture,Velislav Minekov,Q58660831,2021-05-12,,male,1959-03-27,,,
 Minister of Culture,Velislav Minekov,Q58660831,2021-05-12,2021-09-16,male,1959-03-27,,,
+Minister of Defence,Nikolay Mladenov,Q58106,2009-07-27,2010-01-27,male,1972-05-05,,"EPP Political Assembly, Nickolay Mladenov (cropped).jpg",Nickolay Mladenov
+Minister of Defence,Stefan Janev,Q28055319,2017-01-27,2017-05-04,male,1960-03-01,,Stefan Yanev.jpg,Stefan Yanev (general)
+Minister of Defence,Krasimir Karakachanov,Q763173,2017-05-04,2021-05-12,male,1965-03-29,,Krasimir Karakachanov 2017-12-18.jpg,Krasimir Karakachanov
 Minister of Defence,Georgi Velikov Panayotov,Q28869795,2021-05-12,,male,1968,,Georgi Panayotov.jpg,Georgi Panayotov
 Minister of Defence,Georgi Velikov Panayotov,Q28869795,2021-05-12,2021-09-16,male,1968,,Georgi Panayotov.jpg,Georgi Panayotov
+Minister of Defence,Stefan Janev,Q28055319,2021-12-13,,male,1960-03-01,,Stefan Yanev.jpg,Stefan Yanev (general)
 Minister of Economy,Emil Karanikolov,Q30317864,2017-05-04,2020-07-24,male,1980-06-03,,"Emil Karanikolov, Minister of Economy (39134845641).jpg",
 Minister of Economy,Kiril Petkov,Q106928258,2021-05-12,2021-09-16,male,1980-04-17,,Кирил Петков (screenshot).png,Kiril Petkov (politician)
 Minister of Economy,Daniela Vezieva,Q108558965,2021-09-16,,female,1967-10-16,,,
@@ -68,17 +72,18 @@ Minister of Environment and Water,Irina Kostova,Q51098195,2017-01-27,2017-05-04,
 Minister of Environment and Water,Asen Lichev,Q106809260,2021-05-12,,male,1952,,,
 Minister of Environment and Water,Asen Lichev,Q106809260,2021-05-12,2021-09-16,male,1952,,,
 Minister of Finance,Asen Vassiliev,Q12272416,2021-05-12,2021-09-15,male,1977,,Асен Василев.png,Asen Vasilev
-Minister of Finance,Valeri Belchev,Q108560298,2021-09-15,2021-09-16,male,1974-09-06,,,
 Minister of Finance,Valeri Belchev,Q108560298,2021-09-15,,male,1974-09-06,,,
+Minister of Finance,Valeri Belchev,Q108560298,2021-09-15,2021-09-16,male,1974-09-06,,,
 Minister of Foreign Affairs,Nadezhda Neynski,Q432093,1997-05-21,2001-07-24,female,1962-08-09,,Nadezhda Mihailova.jpg,Nadezhda Neynsky
 Minister of Foreign Affairs,Rumiana Jeleva,Q242313,2009-07-27,2010-01-27,female,1969-04-18,,Rumiana Jeleva.jpg,Rumiana Jeleva
+Minister of Foreign Affairs,Nikolay Mladenov,Q58106,2010-01-27,2013-03-13,male,1972-05-05,,"EPP Political Assembly, Nickolay Mladenov (cropped).jpg",Nickolay Mladenov
 Minister of Foreign Affairs,Ekaterina Zakharieva,Q12279576,2017-05-04,2021-05-12,female,1975-08-08,,Ekaterina Zakharieva - 2017 (36685979910) (cropped).jpg,Ekaterina Zaharieva
-Minister of Foreign Affairs,Svetlan Stoev,Q106812725,2021-05-12,,male,1960-08-30,,,
 Minister of Foreign Affairs,Svetlan Stoev,Q106812725,2021-05-12,2021-09-16,male,1960-08-30,,,
+Minister of Foreign Affairs,Svetlan Stoev,Q106812725,2021-05-12,,male,1960-08-30,,,
 Minister of Health,Evgenii Zelev,Q12279375,2008-04-24,2009-07-27,male,1957-07-22,2017-10-20,,
 Minister of Health,Desislava Atanasova,Q3024453,2012-03-21,2013-03-13,female,1978-10-08,,,
-Minister of Health,Nikolaï Petrov,Q12288760,2013-03-13,2013-05-29,male,1959-08-29,,Informal meeting of health ministers (iEPSCO). Arrivals Nikolay Petrov (35872064852).jpg,
 Minister of Health,Nikolaï Petrov,Q12288760,2013-03-13,2017-11-10,male,1959-08-29,,Informal meeting of health ministers (iEPSCO). Arrivals Nikolay Petrov (35872064852).jpg,
+Minister of Health,Nikolaï Petrov,Q12288760,2013-03-13,2013-05-29,male,1959-08-29,,Informal meeting of health ministers (iEPSCO). Arrivals Nikolay Petrov (35872064852).jpg,
 Minister of Health,Nikolaï Petrov,Q12288760,2017-05-04,2013-05-29,male,1959-08-29,,Informal meeting of health ministers (iEPSCO). Arrivals Nikolay Petrov (35872064852).jpg,
 Minister of Health,Nikolaï Petrov,Q12288760,2017-05-04,2017-11-10,male,1959-08-29,,Informal meeting of health ministers (iEPSCO). Arrivals Nikolay Petrov (35872064852).jpg,
 Minister of Health,Kirił Ananiew,Q17409213,2017-11-10,2020-07,male,1955-07-02,,,
