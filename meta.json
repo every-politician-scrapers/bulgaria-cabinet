@@ -4,13 +4,13 @@
       "id": "Q219"
     },
     "cabinet": {
-      "id": "Q108559722",
-      "start": "2021-09-16",
+      "id": "Q110026114",
+      "start": "2021-12-13",
       "parent": "Q2396053"
     },
     "source": {
         "url":   "https://www.gov.bg/en/Cabinet/CABINET-MEMBERS",
-        "title": "CARETAKER CABINET MEMBERS",
+        "title": "Council of Ministers of the Republic of Bulgaria :: CABINET MEMBERS",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
