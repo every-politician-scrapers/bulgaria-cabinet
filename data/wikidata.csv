@@ -1,23 +1,25 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q106801369,Atanas Pekanov,Atanas Pekanow,male,1991-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q107657668,Deputy Prime Minister for EU Funds Management,Q106801369-DE512332-4062-451F-9F6D-29C06E38691D
-Q106809260,Asen Lichev,Asen Lichev,male,1952-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q25478077,Minister of Environment and Water,Q106809260-2B075E84-7939-4AC6-A0AB-401ED40D85EE
-Q106812725,Svetlan Stoev,Svetlan Stoev,male,1960-08-30,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q15916856,Minister of Foreign Affairs,Q106812725-28B3471F-29DC-4EE8-A9E4-A98D4FBBFA6B
-Q106925428,Violeta Komitova,Violeta Komitova,female,1957-03-18,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q107657466,Minister of Regional Development and Public Works,Q106925428-C52F6862-DADD-4CA5-A206-6F904E56864F
-Q106928258,Kiril Petkov,Kiril Petkov,male,1980-04-17,11,,,Q4404583,Prime Minister of Bulgaria,Q106928258-533bd4e9-4c78-64fd-a616-4e0e082dfae9
-Q106928598,Andrey Zhivkov,Andrey Zhivkov,male,1971-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q20499298,Minister of Energy,Q106928598-961F1B5B-1D78-470F-9ADB-3A7F6CEBA968
-Q106928671,Andrey Kuzmanov,Andrej Kuzmanow,male,1959-03-04,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q25478062,Minister of Youth and Sports,Q106928671-77D388D5-CDA4-4B9D-9831-78DA3DC185B1
-Q108558965,Daniela Vezieva,Daniela Vezieva,female,1967-10-16,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-09-21,Q106928375,Minister of Economy,Q108558965-f916e1d1-4c84-9295-e0fa-645557c94aac
-Q108560298,Valeri Belchev,Valeri Belchev,male,1974-09-06,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-09-21,Q20675830,Minister of Finance,Q108560298-6614866D-2C13-44E2-9008-589B7A386306
-Q109467177,Ivan Demerdzhiev,Ivan Demerdzhiev,male,,,,,Q21027776,Minister of Justice,Q109467177-2F6E0999-7400-42BA-9F0F-EF9D30C3CB5F
-Q12295434,Stoicho Katsarov,Stoycho Katsarov,male,1964-06-06,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q25478063,Minister of Health,Q12295434-2EBE0FE3-2470-4C6D-8013-2EACFE358355
-Q28055319,Stefan Janev,Stefan Janev,male,1960-03-01,11,,,Q16157395,Minister of Defense,Q28055319-29D3E83F-48FF-468D-BBF8-BA4EF667D1EB
-Q28536878,Nikolai Denkov,Nikolay Denkov,male,1962-09-03,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q25478039,Minister of Education and Science,Q28536878-9C01C666-95CD-4675-BFB5-EA90321FC00E
-Q28599818,Boyko Rashkov,Boyko Rashkov,male,1954-09-28,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q27990802,Minister of Interior,Q28599818-2DE223F2-25E2-497B-89E9-69E0197853FD
-Q28599818,Boyko Rashkov,Boyko Rashkov,male,1954-09-28,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q107657698,Deputy Prime Minister for Public Order and Security,Q28599818-E66447DE-7634-42AF-849A-DA85AF557433
-Q28869795,Georgi Panayotov,Georgi Velikov Panayotov,male,1968-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q16157395,Minister of Defense,Q28869795-DBF3D7CD-7DB6-4630-A3F3-27B1635508D8
-Q30317160,Hristo Aleksiev,Hristo Aleksiev,male,1980-09-19,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-09-21,Q107657641,"Minister of Transport, Information Technology and Communications",Q30317160-9DE7BBEE-4412-4268-A22B-648BA6F113DD
-Q31192046,Hristo Bozukov,Hristo Bozukov,male,1960-01-14,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q107657609,"Minister of Agriculture, Food and Forestry",Q31192046-D1BC2B8B-CF06-48C7-9E0F-48225F917A93
-Q31192182,Galab Donev,Gulub Donev,male,1967-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q25477936,Minister of Labor and Social Policy,Q31192182-47D685D5-2899-490E-B855-3D28CDD090B7
-Q31192182,Galab Donev,Gulub Donev,male,1967-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q107657677,Deputy Prime Minister for Economic and Social Policies,Q31192182-D30363BE-93D3-447D-8F2B-879046FD5062
-Q51077234,Stela Baltova,Stela Baltova,female,1961-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q107657650,Minister of Tourism,Q51077234-ACFA8BD6-6829-48EC-B70E-62E85A269A8C
-Q58660831,Velislav Minekov,Velislav Minekov,male,1959-03-27,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q25478046,Minister of Culture,Q58660831-8D994254-8379-4DFF-A5F6-263A8D38ADE5
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q108866960,Daniel Lorer,Daniel Lorer,male,1976-05-28,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153940,Minister of Innovation and Growth,2021-12-13,Q108866960-633E1A11-E2B8-4049-8617-8402C7042978
+Q110065845,Hristo Prodanov,Hristo Prodanov,male,1977-03-24,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q107657650,Minister of Tourism,2021-12-13,Q110065845-9AEEC813-7EAC-4F08-A1C2-AA6471EEBC8A
+Q110070893,Kalina Konstantinova,Kalina Konstantinova,female,1984-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153698,Deputy Prime Minister for Good Governance,2021-12-13,Q110070893-C8121F43-13DA-4A1A-A603-BF275E08135C
+Q110071439,Grozdan Karadjov,Grozdan Karadjov,male,1966-12-14,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q63341279,Deputy Prime Minister for Regional Development and Public Works,2021-12-13,Q110071439-DA531B21-EAF8-44B8-9072-2E041906E9FC
+Q110071439,Grozdan Karadjov,Grozdan Karadjov,male,1966-12-14,11,,,Q107657466,Minister of Regional Development and Public Works,2021-12-13,Q110071439-DC1E211C-FF78-421F-9C03-72E17E8E901C
+Q110089977,Teodora Genchovska,Teodora Genchovska,female,1971-05-23,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q15916856,Minister of Foreign Affairs,2021-12-13,Q110089977-81149265-8E5C-491B-9AF0-EE6B392A3419
+Q110139602,Bozhidar Bozhanov,Bozhidar Bozhanov,male,1987-08-19,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153936,Minister of e-Government,2021-12-13,Q110139602-C182248C-497B-45AC-9010-136804D4A6A3
+Q110153814,Nikolay Sabev,Nikolay Sabev,male,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q107657641,Minister of Transport and Communications,2021-12-13,Q110153814-5AD916B7-6A23-44F5-8858-8E759A7CE2CD
+Q110153962,Alexander Nikolov,Alexander Nikolov,male,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q20499298,Minister of Energy,2021-12-13,Q110153962-67EF0907-FB44-4FFC-BBE6-0907697A6450
+Q110153983,Asena Serbezova,Asena Serbezova,female,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q25478063,Minister of Health,2021-12-13,Q110153983-5ED05C92-C8B7-401F-B4DA-D36D4EA0DC16
+Q110153985,Ivan Ivanov,Ivan Ivanov,,1975-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q107657609,Minister of Agriculture,2021-12-13,Q110153985-2F209DB9-193F-434A-9C4B-DB2920FC728C
+Q110153990,Nadezhda Yordanova,Nadezhda Yordanova,female,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q21027776,Minister of Justice,2021-12-13,Q110153990-5A901990-0B0A-4AD0-8C2A-5A5C2857A7A0
+Q110153996,Radostin Vasilev,Radostin Vasilev,,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153998,Minister of Sports,2021-12-13,Q110153996-62221E5F-9FF0-4245-BCAF-C83280C47287
+Q12272416,Assen Vassilev,Asen Vassiliev,male,1977-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q107657668,Deputy Prime Minister for EU Funds,2021-12-13,Q12272416-20EA569F-843E-4BC1-AAFB-FD5B0963E88D
+Q12272416,Assen Vassilev,Asen Vassiliev,male,1977-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q20675830,Minister of Finance,2021-12-13,Q12272416-260DC193-844C-41BB-8B41-D0AE9AC7659D
+Q12272540,Atanas Atanasov,Atanas Atanasov,male,1959-05-17,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q25478046,Minister of Culture,2021-12-13,Q12272540-4E840A20-465A-4D07-A158-AD622F4C28B3
+Q12283736,Korneliya Ninova,Korneliya Ninova,female,1969-01-16,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153748,Deputy Prime Minister for Economy and Industry,2021-12-13,Q12283736-700C6D8E-9D44-4556-80A7-895AE652A7E4
+Q12283736,Korneliya Ninova,Korneliya Ninova,female,1969-01-16,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153751,Minister of Economy and Industry,2021-12-13,Q12283736-F3DDF6E4-6315-4287-8FC4-717F7EF690A6
+Q17409292,Georgi Gyokov,Georgi Gyokov,male,1961-12-13,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q25477936,Minister of Labor and Social Policy,2021-12-13,Q17409292-BA2DB346-A936-461C-96F1-7FBA9AEBE6EB
+Q23661772,Borislav Sandov,Borislav Sandov,male,1982-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153764,Deputy Prime Minister for Climate Policies,2021-12-13,Q23661772-1220F143-C192-475E-B72A-E1AAC76F4A02
+Q23661772,Borislav Sandov,Borislav Sandov,male,1982-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q25478077,Minister of Environment and Water,2021-12-13,Q23661772-2D9B49BA-520E-46B8-A9BD-D8F6988DF06D
+Q28055319,Stefan Yanev,Stefan Janev,male,1960-03-01,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q16157395,Minister of Defense,2021-12-13,Q28055319-29D3E83F-48FF-468D-BBF8-BA4EF667D1EB
+Q28536878,Nikolai Denkov,Nikolay Denkov,male,1962-09-03,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q25478039,Minister of Education and Science,2021-05-12,Q28536878-9C01C666-95CD-4675-BFB5-EA90321FC00E
+Q28599818,Boyko Rashkov,Boyko Rashkov,male,1954-09-28,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q27990802,Minister of Interior,2021-05-12,Q28599818-2DE223F2-25E2-497B-89E9-69E0197853FD
