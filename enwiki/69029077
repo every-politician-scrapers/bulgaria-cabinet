@@ -1,0 +1,273 @@
+{
+  "title": "Kiril Petkov (politician)",
+  "pageID": 69029077,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "Bulgarian politicians",
+    "University of British Columbia alumni",
+    "Harvard Business School alumni",
+    "People from Plovdiv",
+    "Government ministers of Bulgaria",
+    "Prime Ministers of Bulgaria"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kiril Petkov Petkov (Кирил Петков Петков; born 17 April 1980) is a Bulgarian politician, economist, and entrepreneur serving as Prime Minister of Bulgaria since 13 December 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Bulgaria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kiril Petkov Petkov"
+                ]
+              }
+            },
+            {
+              "text": "He is the co-leader of We Continue the Change, a political party he co-founded with Asen Vasilev.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "We Continue the Change"
+                },
+                {
+                  "type": "internal",
+                  "page": "Asen Vasilev"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bulgarian politician (born 1980)",
+          "template": "short description"
+        },
+        {
+          "1": "Kiril Petkov",
+          "2": "Talk:Kiril Petkov (politician)#Requested move 13 December 2021",
+          "template": "user:rmcd bot/subject notice"
+        },
+        {
+          "date": "November 2021",
+          "template": "use american english"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1980",
+          "month": "4",
+          "day": "17",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "abbr": "unk.",
+          "meaning": "unknown",
+          "template": "abbr"
+        },
+        {
+          "list": [
+            "Bulgaria",
+            "Canada (unk.–2021)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "spouse": "Linda McKenzie",
+          "from": "2000",
+          "template": "marriage"
+        },
+        {
+          "list": [
+            "University of British Columbia (BCom)",
+            "Harvard University (MBA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "native_name": {
+            "text": "Кирил Петков"
+          },
+          "native_name_lang": {
+            "text": "bg"
+          },
+          "image": {
+            "text": "Kiril Petkov 2021.jpg"
+          },
+          "caption": {
+            "text": "Petkov in 2021"
+          },
+          "office": {
+            "text": "Prime Minister of Bulgaria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Bulgaria"
+              }
+            ]
+          },
+          "president": {
+            "text": "Rumen Radev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rumen Radev"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 December 2021"
+          },
+          "predecessor": {
+            "text": "Stefan Yanev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Yanev"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Co-Leader of We Continue the Change",
+            "links": [
+              {
+                "text": "Co-Leader of We Continue the Change",
+                "type": "internal",
+                "page": "We Continue the Change"
+              }
+            ]
+          },
+          "alongside1": {
+            "text": "Asen Vasilev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Asen Vasilev"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "19 September 2021"
+          },
+          "predecessor1": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Minister of Economy",
+            "links": [
+              {
+                "text": "Minister of Economy",
+                "type": "internal",
+                "page": "Ministry of Economy, Energy and Tourism (Bulgaria)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "12 May 2021"
+          },
+          "term_end2": {
+            "text": "16 September 2021"
+          },
+          "primeminister2": {
+            "text": "Stefan Yanev",
+            "links": [
+              {
+                "text": "Stefan Yanev",
+                "type": "internal",
+                "page": "Stefan Yanev (general)"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Lachezar Ivanov"
+          },
+          "successor2": {
+            "text": "Daniela Vezieva"
+          },
+          "birth_name": {
+            "text": "Kiril Petkov Petkov"
+          },
+          "birth_date": {
+            "text": "April 17, 1980"
+          },
+          "birth_place": {
+            "text": "Plovdiv, Bulgaria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Plovdiv"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Bulgaria\n\nCanada (unk.–2021)"
+          },
+          "party": {
+            "text": "We Continue the Change",
+            "links": [
+              {
+                "type": "internal",
+                "page": "We Continue the Change"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Linda McKenzie (m. 2000)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "University of British Columbia (BCom)\n\nHarvard University (MBA)"
+          },
+          "occupation": {
+            "text": "Politician · economist · entrepreneur"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-12-13",
+          "title": "Bulgarian parliament backs Kiril Petkov as PM",
+          "url": "https://www.politico.eu/article/bulgaria-parliament-kiril-petkov-prime-minister/",
+          "access-date": "2021-12-13",
+          "website": "POLITICO",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://bntnews.bg/news/prezidentat-radev-obyavi-sluzhebnoto-pravitelstvo-vizhte-koi-sa-ministrite-1105590news.html",
+          "title": "Президентът Радев обяви служебното правителство - вижте кои са министрите - По света и у нас - БНТ Новини",
+          "date": "11 May 2021",
+          "website": "Bulgarian National Television",
+          "access-date": "15 October 2021",
+          "language": "bg",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
