@@ -164,7 +164,7 @@
             "text": "22 January 2017"
           },
           "primeminister": {
-            "text": "Boyko Borisov\n\nOgnyan Gerdzhikov (Acting)\n\nBoyko Borisov\n\nStefan Yanev (Acting)",
+            "text": "Boyko Borisov\n\nOgnyan Gerdzhikov (Acting)\n\nBoyko Borisov\n\nStefan Yanev (Acting)\n\nKiril Petkov",
             "links": [
               {
                 "type": "internal",
@@ -182,6 +182,11 @@
                 "text": "Stefan Yanev",
                 "type": "internal",
                 "page": "Stefan Yanev (general)"
+              },
+              {
+                "text": "Kiril Petkov",
+                "type": "internal",
+                "page": "Kiril Petkov (politician)"
               }
             ]
           },
