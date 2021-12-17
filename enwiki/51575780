@@ -122,7 +122,7 @@
           "list": [
             "Bulgarian Air Force University",
             "Rakovski Military Academy",
-            "Air War College"
+            "Air University"
           ],
           "template": "ubl"
         },
@@ -248,7 +248,17 @@
             "number": 2
           },
           "education": {
-            "text": "Bulgarian Air Force University\n\nRakovski Military Academy\n\nAir War College"
+            "text": "Bulgarian Air Force University\n\nRakovski Military Academy\n\nAir University"
+          },
+          "allegiance": {
+            "text": "🇧🇬 Bulgaria",
+            "links": [
+              {
+                "text": "Bulgaria",
+                "type": "internal",
+                "page": "bulgaria"
+              }
+            ]
           },
           "branch": {
             "text": "Bulgarian Air Force",

@@ -1,0 +1,163 @@
+{
+  "title": "Korneliya Ninova",
+  "pageID": 51518336,
+  "categories": [
+    "1969 births",
+    "Bulgarian jurists",
+    "Bulgarian Socialist Party politicians",
+    "21st-century Bulgarian women politicians",
+    "Living people",
+    "Members of the National Assembly (Bulgaria)",
+    "People from Vratsa Province",
+    "Sofia University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Korneliya Petrova Ninova (Корнелия Петрова Нинова ) is a Bulgarian politician, MP from the parliamentary group of the Bulgarian Socialist Party (BSP).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bulgarian Socialist Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Korneliya Petrova Ninova"
+                ]
+              }
+            },
+            {
+              "text": "She has been the chairwoman of BSP since 8 May 2016."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bulgarian politician",
+          "template": "short description"
+        },
+        {
+          "langcode": "bg",
+          "otherarticle": "Корнелия Нинова",
+          "date": "February 2020",
+          "template": "expand language"
+        },
+        {
+          "date": "July 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "February 2017",
+          "template": "refimprove"
+        },
+        {
+          "year": "1969",
+          "month": "1",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "korˈnɛlijɐ ˈninova",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Korneliya Ninova"
+          },
+          "image": {
+            "text": "KorneliyaNinova.jpg"
+          },
+          "office": {
+            "text": "Leader of the Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Bulgarian Socialist Party"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 May 2016"
+          },
+          "predecessor": {
+            "text": "Mihail Mikov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mihail Mikov"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Korneliya Petrova Ninova"
+          },
+          "birth_date": {
+            "text": "January 16, 1969"
+          },
+          "birth_place": {
+            "text": "Krushovitsa, Miziya municipality, Vratsa Province, Bulgaria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Krushovitsa"
+              },
+              {
+                "type": "internal",
+                "page": "Miziya municipality"
+              },
+              {
+                "type": "internal",
+                "page": "Vratsa Province"
+              },
+              {
+                "text": "Bulgaria",
+                "type": "internal",
+                "page": "People's Republic of Bulgaria"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Bulgarian Socialist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Sofia University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sofia University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Who Is Who: Korneliya Ninova, New Head of Bulgaria's Socialists",
+          "date": "May 9, 2016",
+          "work": "Novinite",
+          "url": "http://www.novinite.com/articles/174377/Who+Is+Who%3A+Korneliya+Ninova,+New+Head+of+Bulgaria's+Socialists",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}
