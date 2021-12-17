@@ -18,4 +18,4 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q17486271,Bliznashki Government,2014-08-06,11,,,2014-11-07,11,,,Q2396053,Council of Ministers,,,Q13415415,Oresharski Government,Q18511647,Second Borisov Government,Q13415415,Oresharski Government,Q18511647,Second Borisov Government
 ,Q29640995,Third Borisov Government,2017-05-04,11,2017-05-04,11,2021-05-12,11,,,Q2396053,Council of Ministers,,,Q28528119,Gerdzhikov Government,Q106803620,First Yanev Government,Q28528119,Gerdzhikov Government,Q106803620,First Yanev Government
 ,Q106803620,First Yanev Government,2021-05-12,11,2021-05-12,11,2021-09-16,11,2021-09-16,11,Q2396053,Council of Ministers,,,Q29640995,Third Borisov Government,Q108559722,2nd Yanev Government,Q29640995,Third Borisov Government,Q108559722,2nd Yanev Government
-,Q108559722,2nd Yanev Government,2021-09-16,11,,,,,,,Q2396053,Council of Ministers,,,Q106803620,First Yanev Government,,,,,,
+,Q108559722,2nd Yanev Government,2021-09-16,11,,,2021-12-13,11,,,Q2396053,Council of Ministers,,,Q106803620,First Yanev Government,Q110026114,Petkov Government,,,,
