@@ -74,14 +74,9 @@
           "template": "birth date and age"
         },
         {
-          "abbr": "unk.",
-          "meaning": "unknown",
-          "template": "abbr"
-        },
-        {
           "list": [
             "Bulgaria",
-            "Canada (unk.–2021)"
+            "Canada"
           ],
           "template": "unbulleted list"
         },
@@ -220,7 +215,7 @@
             ]
           },
           "citizenship": {
-            "text": "Bulgaria\n\nCanada (unk.–2021)"
+            "text": "Bulgaria\n\nCanada"
           },
           "party": {
             "text": "We Continue the Change",
