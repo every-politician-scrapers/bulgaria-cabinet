@@ -1,17 +1,18 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q106928258,Kiril Petkov,Kiril Petkov,male,1980-04-17,11,,,Q4404583,Prime Minister of Bulgaria,2021-12-13,Q106928258-533bd4e9-4c78-64fd-a616-4e0e082dfae9
 Q108866960,Daniel Lorer,Daniel Lorer,male,1976-05-28,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153940,Minister of Innovation and Growth,2021-12-13,Q108866960-633E1A11-E2B8-4049-8617-8402C7042978
 Q110065845,Hristo Prodanov,Hristo Prodanov,male,1977-03-24,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q107657650,Minister of Tourism,2021-12-13,Q110065845-9AEEC813-7EAC-4F08-A1C2-AA6471EEBC8A
 Q110070893,Kalina Konstantinova,Kalina Konstantinova,female,1984-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153698,Deputy Prime Minister for Good Governance,2021-12-13,Q110070893-C8121F43-13DA-4A1A-A603-BF275E08135C
-Q110071439,Grozdan Karadjov,Grozdan Karadjov,male,1966-12-14,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q63341279,Deputy Prime Minister for Regional Development and Public Works,2021-12-13,Q110071439-DA531B21-EAF8-44B8-9072-2E041906E9FC
-Q110071439,Grozdan Karadjov,Grozdan Karadjov,male,1966-12-14,11,,,Q107657466,Minister of Regional Development and Public Works,2021-12-13,Q110071439-DC1E211C-FF78-421F-9C03-72E17E8E901C
+Q110071439,Grozdan Karadjov,Grozdan Karadjov,male,1966-12-14,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q12280307,Deputy Prime Minister for Regional Development and Public Works,2021-12-13,Q110071439-DA531B21-EAF8-44B8-9072-2E041906E9FC
+Q110071439,Grozdan Karadjov,Grozdan Karadjov,male,1966-12-14,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q107657466,Minister of Regional Development and Public Works,2021-12-13,Q110071439-DC1E211C-FF78-421F-9C03-72E17E8E901C
 Q110089977,Teodora Genchovska,Teodora Genchovska,female,1971-05-23,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q15916856,Minister of Foreign Affairs,2021-12-13,Q110089977-81149265-8E5C-491B-9AF0-EE6B392A3419
 Q110139602,Bozhidar Bozhanov,Bozhidar Bozhanov,male,1987-08-19,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153936,Minister of e-Government,2021-12-13,Q110139602-C182248C-497B-45AC-9010-136804D4A6A3
 Q110153814,Nikolay Sabev,Nikolay Sabev,male,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q107657641,Minister of Transport and Communications,2021-12-13,Q110153814-5AD916B7-6A23-44F5-8858-8E759A7CE2CD
 Q110153962,Alexander Nikolov,Alexander Nikolov,male,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q20499298,Minister of Energy,2021-12-13,Q110153962-67EF0907-FB44-4FFC-BBE6-0907697A6450
 Q110153983,Asena Serbezova,Asena Serbezova,female,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q25478063,Minister of Health,2021-12-13,Q110153983-5ED05C92-C8B7-401F-B4DA-D36D4EA0DC16
-Q110153985,Ivan Ivanov,Ivan Ivanov,,1975-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q107657609,Minister of Agriculture,2021-12-13,Q110153985-2F209DB9-193F-434A-9C4B-DB2920FC728C
+Q110153985,Ivan Ivanov,Ivan Ivanov,male,1975-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q107657609,Minister of Agriculture,2021-12-13,Q110153985-2F209DB9-193F-434A-9C4B-DB2920FC728C
 Q110153990,Nadezhda Yordanova,Nadezhda Yordanova,female,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q21027776,Minister of Justice,2021-12-13,Q110153990-5A901990-0B0A-4AD0-8C2A-5A5C2857A7A0
-Q110153996,Radostin Vasilev,Radostin Vasilev,,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153998,Minister of Sports,2021-12-13,Q110153996-62221E5F-9FF0-4245-BCAF-C83280C47287
+Q110153996,Radostin Vasilev,Radostin Vasilev,male,,,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153998,Minister of Sports,2021-12-13,Q110153996-62221E5F-9FF0-4245-BCAF-C83280C47287
 Q12272416,Assen Vassilev,Asen Vassiliev,male,1977-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q107657668,Deputy Prime Minister for EU Funds,2021-12-13,Q12272416-20EA569F-843E-4BC1-AAFB-FD5B0963E88D
 Q12272416,Assen Vassilev,Asen Vassiliev,male,1977-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q20675830,Minister of Finance,2021-12-13,Q12272416-260DC193-844C-41BB-8B41-D0AE9AC7659D
 Q12272540,Atanas Atanasov,Atanas Atanasov,male,1959-05-17,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q25478046,Minister of Culture,2021-12-13,Q12272540-4E840A20-465A-4D07-A158-AD622F4C28B3
@@ -21,5 +22,5 @@ Q17409292,Georgi Gyokov,Georgi Gyokov,male,1961-12-13,11,https://www.gov.bg/en/C
 Q23661772,Borislav Sandov,Borislav Sandov,male,1982-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q110153764,Deputy Prime Minister for Climate Policies,2021-12-13,Q23661772-1220F143-C192-475E-B72A-E1AAC76F4A02
 Q23661772,Borislav Sandov,Borislav Sandov,male,1982-01-01,9,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q25478077,Minister of Environment and Water,2021-12-13,Q23661772-2D9B49BA-520E-46B8-A9BD-D8F6988DF06D
 Q28055319,Stefan Yanev,Stefan Janev,male,1960-03-01,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q16157395,Minister of Defense,2021-12-13,Q28055319-29D3E83F-48FF-468D-BBF8-BA4EF667D1EB
-Q28536878,Nikolai Denkov,Nikolay Denkov,male,1962-09-03,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q25478039,Minister of Education and Science,2021-05-12,Q28536878-9C01C666-95CD-4675-BFB5-EA90321FC00E
-Q28599818,Boyko Rashkov,Boyko Rashkov,male,1954-09-28,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-07-27,Q27990802,Minister of Interior,2021-05-12,Q28599818-2DE223F2-25E2-497B-89E9-69E0197853FD
+Q28536878,Nikolai Denkov,Nikolay Denkov,male,1962-09-03,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q25478039,Minister of Education and Science,2021-05-12,Q28536878-9C01C666-95CD-4675-BFB5-EA90321FC00E
+Q28599818,Boyko Rashkov,Boyko Rashkov,male,1954-09-28,11,https://www.gov.bg/en/Cabinet/CABINET-MEMBERS,2021-12-16,Q27990802,Minister of Interior,2021-05-12,Q28599818-2DE223F2-25E2-497B-89E9-69E0197853FD
