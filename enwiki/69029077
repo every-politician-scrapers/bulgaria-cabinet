@@ -5,11 +5,11 @@
     "1980 births",
     "Living people",
     "Bulgarian politicians",
-    "University of British Columbia alumni",
+    "Government ministers of Bulgaria",
     "Harvard Business School alumni",
     "People from Plovdiv",
-    "Government ministers of Bulgaria",
-    "Prime Ministers of Bulgaria"
+    "Prime Ministers of Bulgaria",
+    "University of British Columbia alumni"
   ],
   "sections": [
     {
@@ -74,9 +74,14 @@
           "template": "birth date and age"
         },
         {
+          "abbr": "unk.",
+          "meaning": "unknown",
+          "template": "abbr"
+        },
+        {
           "list": [
             "Bulgaria",
-            "Canada"
+            "Canada (unk.–2021)"
           ],
           "template": "unbulleted list"
         },
@@ -187,9 +192,8 @@
             "text": "Stefan Yanev",
             "links": [
               {
-                "text": "Stefan Yanev",
                 "type": "internal",
-                "page": "Stefan Yanev (general)"
+                "page": "Stefan Yanev"
               }
             ]
           },
@@ -215,7 +219,7 @@
             ]
           },
           "citizenship": {
-            "text": "Bulgaria\n\nCanada"
+            "text": "Bulgaria\n\nCanada (unk.–2021)"
           },
           "party": {
             "text": "We Continue the Change",
