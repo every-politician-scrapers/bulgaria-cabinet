@@ -1,5 +1,5 @@
 {
-  "title": "Kiril Petkov (politician)",
+  "title": "Kiril Petkov",
   "pageID": 69029077,
   "categories": [
     "1980 births",
@@ -50,13 +50,15 @@
       ],
       "templates": [
         {
-          "description": "Bulgarian politician (born 1980)",
+          "description": "Prime Minister of Bulgaria",
           "template": "short description"
         },
         {
-          "1": "Kiril Petkov",
-          "2": "Talk:Kiril Petkov (politician)#Requested move 13 December 2021",
-          "template": "user:rmcd bot/subject notice"
+          "list": [
+            "the Bulgarian wrestler",
+            "Kiril Petkov (wrestler)"
+          ],
+          "template": "for"
         },
         {
           "date": "November 2021",
