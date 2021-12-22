@@ -1,0 +1,81 @@
+{
+  "title": "Grozdan Karadjov",
+  "pageID": 69540464,
+  "categories": [
+    "Bulgarian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Grozdan Karadzhov (Bulgarian: Гроздан Караджов) is a Bulgarian politician and member of the 43rd national assembly.",
+              "links": [
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgarian language"
+                },
+                {
+                  "text": "national assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Bulgaria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Grozdan Karadzhov"
+                ]
+              }
+            },
+            {
+              "text": "He is a deputy Prime Minister in the government of Kiril Petkov and the minister of regional development and public works.",
+              "links": [
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Petkov Government"
+                },
+                {
+                  "text": "Kiril Petkov",
+                  "type": "internal",
+                  "page": "Kiril Petkov (politician)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bulgarian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "last": "parliament.bg",
+          "title": "Parliament.bg",
+          "url": "https://www.parliament.bg/bg/MP/2354",
+          "access-date": "2021-12-18",
+          "website": "www.parliament.bg",
+          "language": "bg",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Grozdan Karadjov - Deputy Prime Minister for Regional Development and Public Works and Minister of Regional Development and Public Works",
+          "url": "https://gov.bg/en/Cabinet/CABINET-MEMBERS/Grozdan-Karadjov-Deputy-Prime-Minister-for-Regional-Development-and-Public-Works-and-Minister-of-Regional-Development-and-Public-Works",
+          "access-date": "2021-12-18",
+          "website": "gov.bg",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
