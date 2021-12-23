@@ -1,0 +1,172 @@
+{
+  "title": "Daniel Lorer",
+  "pageID": 69505196,
+  "categories": [],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Daniel Lorer (Bulgarian: Даниел Лорер; born 28 May 1976) is a Bulgarian businessman, investor, entrepreneur and politician from PP.",
+              "links": [
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgarian language"
+                },
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgarian language"
+                },
+                {
+                  "text": "businessman",
+                  "type": "internal",
+                  "page": "Businessperson"
+                },
+                {
+                  "text": "investor",
+                  "type": "internal",
+                  "page": "investor"
+                },
+                {
+                  "text": "entrepreneur",
+                  "type": "internal",
+                  "page": "Entrepreneurship"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "PP",
+                  "type": "internal",
+                  "page": "We Continue the Change"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Daniel Lorer"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "1": "Biographies",
+          "date": "December 2021",
+          "template": "notability"
+        },
+        {
+          "date": "December 2021",
+          "template": "blp sources"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "year": "1976",
+          "month": "5",
+          "day": "28",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Violeta Lorer",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Growth and Innovation",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Growth and Innovation"
+              }
+            ]
+          },
+          "native_name": {
+            "text": "Даниел Лорер"
+          },
+          "native_name_lang": {
+            "text": "bg"
+          },
+          "image": {
+            "text": "Daniel Lorer.jpg"
+          },
+          "president": {
+            "text": "Rumen Radev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rumen Radev"
+              }
+            ]
+          },
+          "party": {
+            "text": "We Continue the Change",
+            "links": [
+              {
+                "type": "internal",
+                "page": "We Continue the Change"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Daniel Maksim Lorer"
+          },
+          "birth_date": {
+            "text": "May 28, 1976"
+          },
+          "predecessor": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "termstart": {
+            "text": "13 December 2021"
+          },
+          "birth_place": {
+            "text": "Sofia, Bulgaria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sofia"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Violeta Lorer"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "Tel Aviv University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tel Aviv University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician · investor · businessman · entrepreneur"
+          }
+        }
+      ]
+    }
+  ]
+}
