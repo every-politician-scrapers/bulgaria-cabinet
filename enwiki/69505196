@@ -102,12 +102,12 @@
           "image": {
             "text": "Daniel Lorer.jpg"
           },
-          "president": {
-            "text": "Rumen Radev",
+          "primeminister": {
+            "text": "Kiril Petkov",
             "links": [
               {
                 "type": "internal",
-                "page": "Rumen Radev"
+                "page": "Kiril Petkov"
               }
             ]
           },
