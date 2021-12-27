@@ -1,0 +1,166 @@
+{
+  "title": "Boiko Rashkov",
+  "pageID": 69602460,
+  "categories": [
+    "Alumni by university or college in Bulgaria",
+    "Bulgarian lawyers",
+    "Deputy prime ministers of Bulgaria",
+    "Bulgarian academics",
+    "1954 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Boiko Iliev Rashkov (Cyrillic script: Бойко Илиев Рашков, born September 28, 1954 in Ognyanovo, Garmen Municipality) is a Bulgarian lawyer, state official and politician, deputy to the National Assembly in 2021, Deputy Prime Minister for Public Order and Security, from 2021 Minister of the Interior.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cyrillic script"
+                },
+                {
+                  "text": "Ognyanovo",
+                  "type": "internal",
+                  "page": "Ognyanovo, Blagoevgrad Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Garmen Municipality"
+                },
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgaria"
+                },
+                {
+                  "text": "lawyer",
+                  "type": "internal",
+                  "page": "lawyer"
+                },
+                {
+                  "text": "official",
+                  "type": "internal",
+                  "page": "official"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Bulgaria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Boiko Iliev Rashkov"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bulgarian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1954",
+          "month": "9",
+          "day": "28",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Boiko Rashkov"
+          },
+          "image": {
+            "text": "Boyko-rashkov-1400-x-1750.jpg"
+          },
+          "office": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of the Interior"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "May 12, 2021"
+          },
+          "predecessor": {
+            "text": "Mladen Marinov"
+          },
+          "office1": {
+            "text": "Deputy Prime Minister of Bulgaria"
+          },
+          "term_start1": {
+            "text": "May 12, 2021"
+          },
+          "term_end1": {
+            "text": "December 13, 2021"
+          },
+          "office2": {
+            "text": "Member of the\nBulgarian National Assembly",
+            "links": [
+              {
+                "text": "Bulgarian National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Bulgaria)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2001",
+            "number": 2001
+          },
+          "term_end2": {
+            "text": "2005",
+            "number": 2005
+          },
+          "birth_name": {
+            "text": "Бойко Илиев Рашков"
+          },
+          "birth_date": {
+            "text": "September 28, 1954"
+          },
+          "birth_place": {
+            "text": "Ognyanovo, Garmen Municipality, Bulgaria",
+            "links": [
+              {
+                "text": "Ognyanovo",
+                "type": "internal",
+                "page": "Ognyanovo, Blagoevgrad Province"
+              },
+              {
+                "type": "internal",
+                "page": "Garmen Municipality"
+              },
+              {
+                "type": "internal",
+                "page": "Bulgaria"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "politician"
+          }
+        }
+      ]
+    }
+  ]
+}
