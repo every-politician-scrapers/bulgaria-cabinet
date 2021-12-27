@@ -1,0 +1,172 @@
+{
+  "title": "Nikolai Denkov",
+  "pageID": 69607442,
+  "categories": [
+    "Members of Academia Europaea",
+    "Members of the Bulgarian Academy of Sciences",
+    "Sofia University faculty",
+    "20th-century chemists",
+    "21st-century chemists",
+    "20th-century physicists",
+    "21st-century physicists",
+    "Bulgarian people",
+    "1962 births",
+    "Men"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nikolai Denkov Denkov (Cyrillic script: Никола́й Де́нков Де́нков, born September 3, 1962 in Stara Zagora, Bulgaria) is a Bulgarian politician and since May 12, 2021 Minister of Education of the Republic of Bulgaria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cyrillic script"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stara Zagora"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bulgaria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of Bulgaria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nikolai Denkov Denkov"
+                ]
+              }
+            },
+            {
+              "text": "Denkov is a physicist, physical chemist and chemist.",
+              "links": [
+                {
+                  "text": "physicist",
+                  "type": "internal",
+                  "page": "physicist"
+                },
+                {
+                  "text": "physical chemist",
+                  "type": "internal",
+                  "page": "physical chemist"
+                },
+                {
+                  "text": "chemist",
+                  "type": "internal",
+                  "page": "chemist"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Bulgarian Academy of Sciences and a lecturer at the University of Sofia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bulgarian Academy of Sciences"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Sofia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bulgarian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1962",
+          "month": "9",
+          "day": "3",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nikolai Denkov"
+          },
+          "office": {
+            "text": "Minister of Education and Science"
+          },
+          "term_start": {
+            "text": "May 12, 2021"
+          },
+          "predecessor": {
+            "text": "Krasimir Valchev"
+          },
+          "term_start1": {
+            "text": "January 27, 2017"
+          },
+          "term_end1": {
+            "text": "May 4, 2017"
+          },
+          "predecessor1": {
+            "text": "Todor Tanev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Todor Tanev"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Krasimir Valchev"
+          },
+          "office2": {
+            "text": "Deputy Minister of Education and Science"
+          },
+          "term_start2": {
+            "text": "August 2014"
+          },
+          "term_end2": {
+            "text": "April 2016"
+          },
+          "birth_name": {
+            "text": "Никола́й Де́нков Де́нков"
+          },
+          "birth_date": {
+            "text": "September 3, 1962"
+          },
+          "birth_place": {
+            "text": "Stara Zagora, Bulgaria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stara Zagora"
+              },
+              {
+                "type": "internal",
+                "page": "Bulgaria"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "politician"
+          }
+        }
+      ]
+    }
+  ]
+}

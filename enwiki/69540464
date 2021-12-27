@@ -48,6 +48,15 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Grozdan karadzhov.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grozdan_karadzhov.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grozdan_karadzhov.png",
+          "caption": "Grozdan Karadzhov",
+          "links": []
+        }
+      ],
       "templates": [
         {
           "description": "Bulgarian politician",

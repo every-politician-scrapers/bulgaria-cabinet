@@ -95,7 +95,7 @@
         {
           "list": [
             "University of British Columbia (BCom)",
-            "Harvard University (MBA)"
+            "Harvard Business School (MBA)"
           ],
           "template": "unbulleted list"
         }
@@ -240,7 +240,7 @@
             "number": 3
           },
           "alma_mater": {
-            "text": "University of British Columbia (BCom)\n\nHarvard University (MBA)"
+            "text": "University of British Columbia (BCom)\n\nHarvard Business School (MBA)"
           },
           "occupation": {
             "text": "Politician · economist · entrepreneur"
