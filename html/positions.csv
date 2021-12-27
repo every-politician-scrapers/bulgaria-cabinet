@@ -1,6 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q14946265,President of Bulgaria,Q219,Q219,Q125973,Q127403,1990-04-03,,,,President of Bulgaria
 Q125973,Vice President of Bulgaria,Q219,Q219,,,1990-08-01,,,,Vice President of Bulgaria
+Q4404583,Prime Minister of Bulgaria,Q219,Q219,,Q725436,1879-07-17,,Q83529115,,Prime Minister of Bulgaria
 Q12280307,Deputy Prime Minister of Bulgaria,Q219,Q219,,,,,,,
 Q12280307,Deputy Prime Minister of Bulgaria,Q219,Q219,,,,,,,
 Q110153764,Deputy Prime Minister for Climate Policies,Q219,Q219,,,,,,,
@@ -12,6 +13,7 @@ Q107657698,Deputy Prime Minister for Public Order and Security,Q219,Q219,,,,,,,
 Q107657609,Minister of Agriculture,Q219,Q219,,,,,,,
 Q25478046,Minister of Culture,Q219,Q219,,,,,,,
 Q16157395,Minister of Defense,Q219,Q219,,,,,,,
+Q106928375,Minister of Economy,Q219,Q219,,,,,,,
 Q4294821,"Minister of Economy, Energy and Tourism",Q219,Q219,,,1999,,,,"Ministry of Economy, Energy and Tourism (Bulgaria)"
 Q110153751,Minister of Economy and Industry,Q219,Q219,,,,,,,
 Q25478039,Minister of Education and Science,Q219,Q219,,,,,,,
