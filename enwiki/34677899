@@ -153,7 +153,7 @@
             ]
           },
           "primeminister": {
-            "text": "Boyko Borisov\nOgnyan Gerdzhikov (Acting)\nBoyko Borisov",
+            "text": "Boyko Borisov\nOgnyan Gerdzhikov (Acting)\nBoyko Borisov Stefan Yanev (acting) Kiril Petkov",
             "links": [
               {
                 "type": "internal",
@@ -166,6 +166,14 @@
               {
                 "type": "internal",
                 "page": "Boyko Borisov"
+              },
+              {
+                "type": "internal",
+                "page": "Stefan Yanev"
+              },
+              {
+                "type": "internal",
+                "page": "Kiril Petkov"
               }
             ]
           },

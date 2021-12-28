@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Boiko Iliev Rashkov (Cyrillic script: Бойко Илиев Рашков, born September 28, 1954 in Ognyanovo, Garmen Municipality) is a Bulgarian lawyer, state official and politician, deputy to the National Assembly in 2021, Deputy Prime Minister for Public Order and Security, from 2021 Minister of the Interior.",
+              "text": "Boiko Iliev Rashkov (Cyrillic script: Бойко Илиев Рашков, born 28 September 1954 in Ognyanovo, Garmen Municipality) is a Bulgarian lawyer, state official and politician, deputy to the National Assembly in 2021, Deputy Prime Minister for Public Order and Security, from 2021 Minister of the Interior.",
               "links": [
                 {
                   "type": "internal",
@@ -79,6 +79,7 @@
           "year": "1954",
           "month": "9",
           "day": "28",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
@@ -100,7 +101,20 @@
             ]
           },
           "term_start": {
-            "text": "May 12, 2021"
+            "text": "12 May 2021"
+          },
+          "primeminister": {
+            "text": "Stefan Yanev Kiril Petkov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Yanev"
+              },
+              {
+                "type": "internal",
+                "page": "Kiril Petkov"
+              }
+            ]
           },
           "predecessor": {
             "text": "Mladen Marinov"
@@ -109,10 +123,10 @@
             "text": "Deputy Prime Minister of Bulgaria"
           },
           "term_start1": {
-            "text": "May 12, 2021"
+            "text": "12 May 2021"
           },
           "term_end1": {
-            "text": "December 13, 2021"
+            "text": "13 December 2021"
           },
           "office2": {
             "text": "Member of the\nBulgarian National Assembly",

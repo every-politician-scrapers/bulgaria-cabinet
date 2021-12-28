@@ -2,6 +2,8 @@
   "title": "Nikolai Denkov",
   "pageID": 69607442,
   "categories": [
+    "Living people",
+    "1962 births",
     "Members of Academia Europaea",
     "Members of the Bulgarian Academy of Sciences",
     "Sofia University faculty",
@@ -9,9 +11,11 @@
     "21st-century chemists",
     "20th-century physicists",
     "21st-century physicists",
-    "Bulgarian people",
-    "1962 births",
-    "Men"
+    "21st-century Bulgarian politicians",
+    "21st-century Bulgarian women politicians",
+    "Government ministers of Bulgaria",
+    "Women government ministers of Bulgaria",
+    "Education ministers"
   ],
   "sections": [
     {
@@ -21,19 +25,11 @@
         {
           "sentences": [
             {
-              "text": "Nikolai Denkov Denkov (Cyrillic script: Никола́й Де́нков Де́нков, born September 3, 1962 in Stara Zagora, Bulgaria) is a Bulgarian politician and since May 12, 2021 Minister of Education of the Republic of Bulgaria.",
+              "text": "Nikolai Denkov Denkov (Cyrillic script: Никола́й Де́нков Де́нков, born September 3, 1962) is a Bulgarian politician and since May 12, 2021 Minister of Education of the Republic of Bulgaria.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Cyrillic script"
-                },
-                {
-                  "type": "internal",
-                  "page": "Stara Zagora"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bulgaria"
                 },
                 {
                   "type": "internal",
@@ -164,6 +160,9 @@
           },
           "occupation": {
             "text": "politician"
+          },
+          "image": {
+            "text": "Nikolaidenkov.jpg"
           }
         }
       ]
