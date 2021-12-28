@@ -99,6 +99,60 @@
               }
             ]
           },
+          "office1": {
+            "text": "Deputy Prime Minister of Bulgaria"
+          },
+          "term_start1": {
+            "text": "13 December 2021"
+          },
+          "primeminister1": {
+            "text": "Kiril Petkov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kiril Petkov"
+              }
+            ]
+          },
+          "alongside1": {
+            "text": "Kalina Konstantinova, Asen Vasilev, Grozdan Karadzhov and Borislav Sandov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kalina Konstantinova"
+              },
+              {
+                "type": "internal",
+                "page": "Asen Vasilev"
+              },
+              {
+                "type": "internal",
+                "page": "Grozdan Karadzhov"
+              },
+              {
+                "type": "internal",
+                "page": "Borislav Sandov"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Economy and Industry"
+          },
+          "term_start2": {
+            "text": "13 December 2021"
+          },
+          "primeminister2": {
+            "text": "Kiril Petkov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kiril Petkov"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Daniela Vezieva (as Minister of Economy)"
+          },
           "birth_name": {
             "text": "Korneliya Petrova Ninova"
           },
