@@ -1,0 +1,137 @@
+{
+  "title": "Nikolai Subev",
+  "pageID": 69607802,
+  "categories": [
+    "Government ministers of Bulgaria",
+    "Bulgarian businesspeople",
+    "1960 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nikolai Iordanov Subev (Bulgarian: Николай Йорданов Събев, born September 24, 1960 in Ruse ) is a Bulgarian businessman and politician, member of the National Assembly, minister of transport and communications from 2021.",
+              "links": [
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgarian language"
+                },
+                {
+                  "text": "Ruse",
+                  "type": "internal",
+                  "page": "Ruse, Bulgaria"
+                },
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgaria"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Bulgaria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nikolai Iordanov Subev"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bulgarian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1960",
+          "month": "9",
+          "day": "24",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nikolai Subev"
+          },
+          "office": {
+            "text": "Minister of Transport and Communications",
+            "links": [
+              {
+                "text": "Minister of Transport and Communications",
+                "type": "internal",
+                "page": "Ministry of Transport, Information Technology and Communications (Bulgaria)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "December 13, 2021"
+          },
+          "predecessor": {
+            "text": "Hristo Alexiev"
+          },
+          "office1": {
+            "text": "Member of the\nBulgarian National Assembly",
+            "links": [
+              {
+                "text": "Bulgarian National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Bulgaria)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "November 15, 2021"
+          },
+          "birth_name": {
+            "text": "Николай Йорданов Събев"
+          },
+          "birth_date": {
+            "text": "September 24, 1960"
+          },
+          "birth_place": {
+            "text": "Ruse, Bulgaria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ruse, Bulgaria"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "politician"
+          },
+          "image": {
+            "text": "Nikolaisabev.png"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}
