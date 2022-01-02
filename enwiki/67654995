@@ -284,35 +284,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.novinite.com/articles/209440/Who+Is+Stefan+Yanev+-+New+Bulgarian+Caretaker+Prime+Minister%3F",
-          "title": "Who Is Stefan Yanev - New Bulgarian Caretaker Prime Minister?",
-          "date": "11 May 2021",
-          "website": "www.novinite.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Bułgaria: Prezydent: przywrócenie zaufania do instytucji państwa najważniejszym zadaniem rządu - rynki zagraniczne",
-          "url": "https://www.wnp.pl/rynki-zagraniczne/bulgaria-prezydent-przywrocenie-zaufania-do-instytucji-panstwa-najwazniejszym-zadaniem-rzadu,468414.html",
-          "access-date": "2021-05-13",
-          "website": "wnp.pl",
-          "language": "pl",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-05-11",
-          "title": "Bulgarian President Radev names Stefan Yanev caretaker PM",
-          "url": "https://sofiaglobe.com/2021/05/11/bulgarian-president-radev-names-stefan-yanev-caretaker-pm/",
-          "access-date": "2021-05-13",
-          "website": "The Sofia Globe",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

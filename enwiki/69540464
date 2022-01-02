@@ -53,27 +53,6 @@
           "description": "Bulgarian politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "last": "parliament.bg",
-          "title": "Parliament.bg",
-          "url": "https://www.parliament.bg/bg/MP/2354",
-          "access-date": "2021-12-18",
-          "website": "www.parliament.bg",
-          "language": "bg",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Grozdan Karadjov - Deputy Prime Minister for Regional Development and Public Works and Minister of Regional Development and Public Works",
-          "url": "https://gov.bg/en/Cabinet/CABINET-MEMBERS/Grozdan-Karadjov-Deputy-Prime-Minister-for-Regional-Development-and-Public-Works-and-Minister-of-Regional-Development-and-Public-Works",
-          "access-date": "2021-12-18",
-          "website": "gov.bg",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
