@@ -101,31 +101,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.bnb.bg/AboutUs/AUBNBGovernment/AUSGovernor/index.htm",
-          "title": "(untitled)",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.novinite.com/articles/169869/Dimitar+Radev+Elected+Governor+of+Bulgarian+National+Bank",
-          "title": "Dimitar Radev Elected Governor of Bulgarian National Bank - Novinite.com - Sofia News Agency",
-          "access-date": "2018-04-09",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://uk.reuters.com/article/bulgaria-cenbank-radev/bulgaria-appoints-dimitar-radev-as-central-bank-head-idUKL5N0ZT37O20150714",
-          "title": "Bulgaria appoints Dimitar Radev as central bank head",
-          "author": "Reuters Editorial",
-          "work": "U.K.",
-          "access-date": "2018-04-09",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

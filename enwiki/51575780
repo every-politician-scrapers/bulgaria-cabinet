@@ -282,53 +282,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.euronews.com/2016/11/13/bulgarian-pm-borisov-to-resign-after-presidential-vote-defeat",
-          "title": "Pro-Russia candidate wins Bulgaria's presidential run-off",
-          "date": "13 November 2016",
-          "work": "euronews.com",
-          "access-date": "24 November 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.rferl.org/a/bulgaria-president-radev-pro-russia/28114949.html",
-          "title": "Bulgaria Faces Uncertainty After Election Of Pro-Russia President",
-          "publisher": "Radio Free Europe/Radio Liberty",
-          "date": "13 November 2016",
-          "access-date": "24 November 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Bulgaria votes in presidential runoff amid anti-corruption agenda",
-          "url": "https://www.aljazeera.com/news/2021/11/21/bulgaria-votes-in-presidential-runoff-election",
-          "access-date": "2021-11-23",
-          "website": "www.aljazeera.com",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Tsolova",
-          "first": "Tsvetelia",
-          "date": "2021-11-21",
-          "title": "Bulgarian President Radev wins second term on anti-corruption ticket",
-          "language": "en",
-          "work": "Reuters",
-          "url": "https://www.reuters.com/world/europe/tired-rampant-graft-bulgarians-vote-presidential-election-2021-11-21/",
-          "access-date": "2021-11-23",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
