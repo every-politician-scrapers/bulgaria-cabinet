@@ -62,10 +62,6 @@
         },
         {
           "date": "November 2021",
-          "template": "use american english"
-        },
-        {
-          "date": "November 2021",
           "template": "use dmy dates"
         },
         {
