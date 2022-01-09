@@ -1,6 +1,6 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q12291258,Q12291258,,,,,,,,,,,,,,,,
 ,Q12291260,Q12291260,,,,,,,,,,,,,,,,
+,Q12291258,1st Lukanov Cabinet,1990-02-08,11,,,1990-09-21,11,,,,,,,,,,
 78,Q9325376,Q9325376,1990-12-22,11,,,1991-11-08,11,,,,,,,,,Q12291259,Q12291259
 ,Q12291259,Q12291259,1991-11-08,11,,,1992-12-30,11,,,,,,,Q9325376,Q9325376,Q9325415,Berov Government
 83,Q9325415,Berov Government,1992-12-30,11,,,1994-10-17,11,,,,,,,Q12291259,Q12291259,Q12291262,Indzhova Government
