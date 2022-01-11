@@ -1,9 +1,9 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 ,Q12291258,1st Lukanov Cabinet,1990-02-08,11,,,1990-09-21,11,,,,,,,,,,
 ,Q12291260,2nd Lukanov Cabinet,1990-09-21,11,,,1990-12-20,11,,,,,,,,,,
-78,Q9325376,Q9325376,1990-12-22,11,,,1991-11-08,11,,,,,,,,,Q12291259,Q12291259
-,Q12291259,Q12291259,1991-11-08,11,,,1992-12-30,11,,,,,,,Q9325376,Q9325376,Q9325415,Berov Government
-83,Q9325415,Berov Government,1992-12-30,11,,,1994-10-17,11,,,,,,,Q12291259,Q12291259,Q12291262,Indzhova Government
+78,Q9325376,Popova Cabinet,1990-12-22,11,,,1991-11-08,11,,,,,,,,,Q12291259,Dimitrov Cabinet
+,Q12291259,Dimitrov Cabinet,1991-11-08,11,,,1992-12-30,11,,,,,,,Q9325376,Popova Cabinet,Q9325415,Berov Government
+83,Q9325415,Berov Government,1992-12-30,11,,,1994-10-17,11,,,,,,,Q12291259,Dimitrov Cabinet,Q12291262,Indzhova Government
 ,Q12291262,Indzhova Government,1994-10-17,11,,,1995-01-25,11,,,,,,,Q9325415,Berov Government,Q9325482,Videnov Government
 ,Q9325482,Videnov Government,,,1995-01-25,11,,,1997-02-12,11,,,,,Q12291262,Indzhova Government,Q12291264,Sofiyanski Government
 ,Q12291264,Sofiyanski Government,1997-02-12,11,,,1997-05-21,11,,,,,,,Q9325482,Videnov Government,Q6357576,Kostov Government
