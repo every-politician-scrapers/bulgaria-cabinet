@@ -59,6 +59,13 @@
       ],
       "templates": [
         {
+          "concern": "BLP lacks coverage in independent references to establish that WP:NBIO is met",
+          "timestamp": "20220112223829",
+          "nom": "MrsSnoozyTurtle",
+          "help": "off",
+          "template": "proposed deletion/dated"
+        },
+        {
           "1": "Biographies",
           "date": "December 2021",
           "template": "notability"
