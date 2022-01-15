@@ -1,0 +1,130 @@
+{
+  "title": "Nikola Minchev",
+  "pageID": 69441201,
+  "categories": [
+    "1987 births",
+    "Living people",
+    "Bulgarian lawyers",
+    "Bulgarian politicians",
+    "Sofia University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nikola Georgiev Minchev (Никола Георгиев Минчев; born September 13 1987) is a Bulgarian lawyer and politician who serves as the Speaker of the 47th National Assembly.",
+              "links": [
+                {
+                  "text": "Speaker",
+                  "type": "internal",
+                  "page": "Chairperson of the National Assembly of Bulgaria"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Bulgaria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nikola Georgiev Minchev"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "df": "yes",
+          "year": "1987",
+          "month": "09",
+          "day": "13",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nikola Minchev"
+          },
+          "native_name": {
+            "text": "Никола Минчев"
+          },
+          "native_name_lang": {
+            "text": "bg"
+          },
+          "office": {
+            "text": "Chairperson of the National Assembly",
+            "links": [
+              {
+                "text": "Chairperson of the National Assembly",
+                "type": "internal",
+                "page": "Chairperson of the National Assembly of Bulgaria"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 December 2021"
+          },
+          "predecessor": {
+            "text": "Iva Miteva",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iva Miteva"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 13, 1987"
+          },
+          "birth_place": {
+            "text": "Pernik, Bulgaria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pernik"
+              },
+              {
+                "text": "Bulgaria",
+                "type": "internal",
+                "page": "People's Republic of Bulgaria"
+              }
+            ]
+          },
+          "party": {
+            "text": "We Continue the Change",
+            "links": [
+              {
+                "type": "internal",
+                "page": "We Continue the Change"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Sofia University (MD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sofia University"
+              },
+              {
+                "text": "MD",
+                "type": "internal",
+                "page": "Master's degree"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician · Lawyer"
+          }
+        }
+      ]
+    }
+  ]
+}
