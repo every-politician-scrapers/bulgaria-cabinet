@@ -51,6 +51,10 @@
       ],
       "templates": [
         {
+          "description": "Bulgarian entrepreneur and politician",
+          "template": "short description"
+        },
+        {
           "year": "1984",
           "month": "5",
           "day": "18",
