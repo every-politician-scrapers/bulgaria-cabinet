@@ -17,7 +17,22 @@
         {
           "sentences": [
             {
-              "text": "Asen Vaskov Vasilev (Асен Васков Василев; born 9 September 1977) is a Bulgarian politician, economist, and entrepreneur who served in 2013 as Minister of Economy, Energy and Tourism in the caretaker government of Marin Raykov and as Minister of Finance from 12 May 2021, to 16 September 2021, in the caretaker government of Stefan Yanev.",
+              "text": "Asen Vaskov Vasilev (Асен Васков Василев; born 9 September 1977) is a Bulgarian politician, economist, and entrepreneur who is the current Deputy Prime Minister and Minister of Finance since 13 Decemeber 2021.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Bulgaria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Asen Vaskov Vasilev"
+                ]
+              }
+            },
+            {
+              "text": "He previously served in 2013 as Minister of Economy, Energy and Tourism in the caretaker government of Marin Raykov and as Minister of Finance from 12 May 2021, to 16 September 2021, in the caretaker government of Stefan Yanev.",
               "links": [
                 {
                   "text": "Minister of Economy, Energy and Tourism",
@@ -34,21 +49,11 @@
                   "page": "Marin Raykov"
                 },
                 {
-                  "text": "Minister of Finance",
-                  "type": "internal",
-                  "page": "Ministry of Finance (Bulgaria)"
-                },
-                {
                   "text": "Stefan Yanev",
                   "type": "internal",
                   "page": "Stefan Yanev (general)"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Asen Vaskov Vasilev"
-                ]
-              }
+              ]
             },
             {
               "text": "He is the co-leader of We Continue the Change, a political party he co-founded with Kiril Petkov.",
