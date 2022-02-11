@@ -621,13 +621,7 @@
               ]
             },
             "Name": {
-              "text": "Ivan Ivanov",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ivan Ivanov"
-                }
-              ]
+              "text": "Ivan Ivanov"
             },
             "Party affiliation": {
               "text": ""
@@ -925,10 +919,6 @@
             "There Are Such People"
           ],
           "template": "party color"
-        },
-        {
-          "date": "December 2021",
-          "template": "dn"
         },
         {
           "list": [
