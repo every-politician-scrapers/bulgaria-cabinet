@@ -19,11 +19,12 @@
         {
           "sentences": [
             {
-              "text": "Kiril Petkov Petkov (Кирил Петков Петков; born 17 April 1980) is a Bulgarian politician, economist, and entrepreneur serving as Prime Minister of Bulgaria since 13 December 2021.",
+              "text": "Kiril Petkov Petkov (Кирил Петков Петков; born 17 April 1980) is a Bulgarian politician, economist, and entrepreneur serving as prime minister of Bulgaria since 13 December 2021.",
               "links": [
                 {
+                  "text": "prime minister of Bulgaria",
                   "type": "internal",
-                  "page": "Prime Minister of Bulgaria"
+                  "page": "prime minister of Bulgaria"
                 }
               ],
               "formatting": {
@@ -50,7 +51,7 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of Bulgaria",
+          "description": "prime minister of Bulgaria",
           "template": "short description"
         },
         {
