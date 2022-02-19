@@ -40,7 +40,11 @@
                   "Rumen Georgiev Radev"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Radev previously served as commander of the Bulgarian Air Force.",
               "links": [
