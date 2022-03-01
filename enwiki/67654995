@@ -48,7 +48,7 @@
               ]
             },
             {
-              "text": "He has served since 13 December as minister of defence in the following regular government."
+              "text": "He served from 13 December 2021 to 1 March 2022 as minister of defence in the following regular government."
             }
           ]
         }
@@ -107,6 +107,9 @@
           },
           "term_start1": {
             "text": "13 December 2021"
+          },
+          "term_end1": {
+            "text": "1 March 2022"
           },
           "primeminister1": {
             "text": "Kiril Petkov",
