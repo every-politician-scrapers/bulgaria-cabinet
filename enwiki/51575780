@@ -223,8 +223,9 @@
                 "page": "Dimitrovgrad, Bulgaria"
               },
               {
+                "text": "Bulgaria",
                 "type": "internal",
-                "page": "Bulgaria"
+                "page": "People's Republic of Bulgaria"
               }
             ]
           },
@@ -239,7 +240,7 @@
             ]
           },
           "otherparty": {
-            "text": "Bulgarian Communist Party (1985-1990)",
+            "text": "Bulgarian Communist Party (1985–1990)",
             "links": [
               {
                 "type": "internal",

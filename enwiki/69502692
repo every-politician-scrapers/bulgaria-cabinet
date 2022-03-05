@@ -396,12 +396,11 @@
               "text": "Minister of Defense"
             },
             "Incumbent": {
-              "text": "Stefan Yanev",
+              "text": "Dragomir Zakov",
               "links": [
                 {
-                  "text": "Stefan Yanev",
                   "type": "internal",
-                  "page": "Stefan Yanev (general)"
+                  "page": "Dragomir Zakov"
                 }
               ]
             },
@@ -857,11 +856,12 @@
           "type": "web"
         },
         {
-          "title": "Stefan Yanev - Minister of Defense",
-          "url": "https://gov.bg/en/Cabinet/CABINET-MEMBERS/Stoicho-Katsarov-Minister-of-Health",
-          "access-date": "2021-12-16",
-          "website": "gov.bg",
-          "language": "en",
+          "date": "2022-03-01",
+          "title": "Bulgaria Replaces Ousted Defence Minister with NATO Envoy",
+          "url": "https://balkaninsight.com/2022/03/01/bulgaria-replaces-ousted-defence-minister-with-nato-envoy/",
+          "access-date": "2022-03-03",
+          "website": "Balkan Insight",
+          "language": "en-US",
           "template": "citation",
           "type": "web"
         },
