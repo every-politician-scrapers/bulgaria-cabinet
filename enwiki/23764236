@@ -1,206 +1,24 @@
 {
-  "title": "Yordanka Fandakova",
-  "pageID": 23764236,
-  "categories": [
-    "Sofia University alumni",
-    "1962 births",
-    "Living people",
-    "Members of the National Assembly (Bulgaria)",
-    "Women mayors of places in Bulgaria",
-    "Mayors of Sofia",
-    "People from Samokov",
-    "GERB politicians",
-    "Government ministers of Bulgaria",
-    "Women government ministers of Bulgaria",
-    "21st-century Bulgarian politicians",
-    "21st-century Bulgarian women politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Yordanka Asenova Fandakova (Йорданка Асенова Фандъкова) (born 12 April 1962) is a Bulgarian politician and Mayor of Sofia.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mayor of Sofia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Yordanka Asenova Fandakova"
-                ]
-              }
-            },
-            {
-              "text": "She is the first woman to hold this position."
-            },
-            {
-              "text": "She was elected on 15 November 2009, after defeating the Bulgarian Socialist Party contender Georgi Kadiev.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bulgarian Socialist Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Georgi Kadiev"
-                }
-              ]
-            },
-            {
-              "text": "Fandakova is a member of the conservative GERB party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "GERB"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Bulgarian politician and Mayor of Sofia",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "year": "1962",
-          "month": "04",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Yordanka Fandakova"
-          },
-          "image": {
-            "text": "High-hevel Conference Dedicated to EU Cohesion Policy Handshake (28793180168) (Yordanka Fandakova cropped).jpg"
-          },
-          "order": {
-            "text": "64th"
-          },
-          "office": {
-            "text": "Mayor of Sofia"
-          },
-          "term_start": {
-            "text": "8 November 2011"
-          },
-          "predecessor": {
-            "text": "Maria Boyadzhiyska (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maria Boyadzhiyska"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "23 November 2009"
-          },
-          "term_end2": {
-            "text": "6 October 2011"
-          },
-          "predecessor2": {
-            "text": "Boyko Borisov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boyko Borisov"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Maria Boyadzhiyska (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maria Boyadzhiyska"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Education and Science"
-          },
-          "term_start3": {
-            "text": "27 July 2009"
-          },
-          "term_end3": {
-            "text": "19 November 2009"
-          },
-          "primeminister3": {
-            "text": "Boyko Borisov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boyko Borisov"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Daniel Valchev"
-          },
-          "successor3": {
-            "text": "Sergei Ignatov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sergei Ignatov"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 12, 1962"
-          },
-          "birth_place": {
-            "text": "Samokov, Bulgaria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Samokov"
-              },
-              {
-                "type": "internal",
-                "page": "Bulgaria"
-              }
-            ]
-          },
-          "party": {
-            "text": "GERB",
-            "links": [
-              {
-                "type": "internal",
-                "page": "GERB"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Sofia University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sofia University"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Yuri Fandakov"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Yordanka Fandakova",
+  "image": "High-hevel Conference Dedicated to EU Cohesion Policy Handshake (28793180168) (Yordanka Fandakova cropped).jpg",
+  "order": "64th",
+  "office": "Mayor of Sofia",
+  "term_start": "8 November 2011",
+  "predecessor": "Maria Boyadzhiyska (acting)",
+  "term_start2": "23 November 2009",
+  "term_end2": "6 October 2011",
+  "predecessor2": "Boyko Borisov",
+  "successor2": "Maria Boyadzhiyska (acting)",
+  "office3": "Minister of Education and Science",
+  "term_start3": "27 July 2009",
+  "term_end3": "19 November 2009",
+  "primeminister3": "Boyko Borisov",
+  "predecessor3": "Daniel Valchev",
+  "successor3": "Sergei Ignatov",
+  "birth_date": "April 12, 1962",
+  "birth_place": "Samokov, Bulgaria",
+  "party": "GERB",
+  "alma_mater": "Sofia University",
+  "spouse": "Yuri Fandakov",
+  "children": "1"
 }
