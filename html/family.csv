@@ -1,0 +1,39 @@
+id,name,relationship,relative,relativename
+Q1060355,Simeon II of Bulgaria,child,Q1475536,"Kyril, Prince of Preslav"
+Q1060355,Simeon II of Bulgaria,child,Q6369103,"Kardam, Prince of Turnovo"
+Q1060355,Simeon II of Bulgaria,child,Q6441319,"Kubrat, Prince of Panagyurishte"
+Q1060355,Simeon II of Bulgaria,child,Q6482148,Princess Kalina of Bulgaria
+Q1060355,Simeon II of Bulgaria,child,Q6482163,"Konstantin-Assen, Prince of Vidin"
+Q1060355,Simeon II of Bulgaria,father,Q159585,Boris III of Bulgaria
+Q1060355,Simeon II of Bulgaria,mother,Q235168,Giovanna of Italy
+Q1060355,Simeon II of Bulgaria,sibling,Q3292104,"Princess Marie Louise, 9th Princess of Koháry"
+Q1060355,Simeon II of Bulgaria,spouse,Q3622509,Margarita Saxe-Coburg-Gotha
+Q108866960,Daniel Lorer,relative,Q70551952,Heni Lorer
+Q11832497,Plamen Oresharski,child,Q17278694,Desislav Oresharski
+Q11832497,Plamen Oresharski,spouse,Q17278693,Elka Georgieva
+Q12273511,,spouse,Q110065375,Mariana Karagyozova-Finkova
+Q12277826,Delyan Peevski,mother,Q12281826,Irena Krasteva
+Q12277826,Delyan Peevski,spouse,Q3171491,Tsvetelina Yaneva
+Q12281406,Igor Damyanov,father,Q12293738,Simeon Damyanov
+Q12285342,Lyuben Dilov Jr.,father,Q907201,Lyuben Dilov
+Q12290597,Petar Stoyanovich,mother,Q12272048,Ani Bakalova
+Q12290597,Petar Stoyanovich,sibling,Q105825638,Димитър Стоянович
+Q18518477,Petar Moskov,mother,Q12279865,Emma Moskova
+Q18757290,Hristo Ivanov,mother,Q98148050,Maria Boykikeva
+Q202117,Sergei Stanishev,father,Q12278614,Dimitar Stanishev
+Q2064558,Vezhdi Rashidov,mother,Q12282309,Kadriye Latifova
+Q26257557,Rumen Radev,spouse,Q38222457,Desislava Radeva
+Q295212,Rosen Plevneliev,spouse,Q17278804,Yuliyana Plevnelieva
+Q30317864,Emil Karanikolov,father,Q25478136,Любен Караниколов
+Q42405440,Boil Banov,father,Q12274666,Vasil Banov
+Q432093,Nadezhda Neynski,spouse,Q100741328,Svetlin Neynski
+Q432093,Nadezhda Neynski,spouse,Q107010807,Камен Михайлов
+Q58660831,Velislav Minekov,father,Q7918937,Velichko Minekov
+Q58660831,Velislav Minekov,relative,Q7292726,Rangel Vulchanov
+Q58660831,Velislav Minekov,spouse,Q12272050,Ani Valchanova
+Q600326,Stefan Danailov,father,Q22116666,Lambi Danailov
+Q600326,Stefan Danailov,relative,Q12274703,Vasil Danailov
+Q600326,Stefan Danailov,sibling,Q12292572,Rositsa Danailova
+Q763173,Krasimir Karakachanov,father,Q30303382,Дончо Каракачанов
+Q81215,Petar Stoyanov,sibling,Q1336888,Emil Stoyanov
+Q84837746,Denitsa Sacheva,father,Q108666916,Евгений Сачев
