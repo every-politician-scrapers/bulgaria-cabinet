@@ -4,29 +4,6 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-# Bulgarian dates
-class Bulgarian < WikipediaDate
-  REMAP = {
-    '…'         => '',
-    'януари'    => 'January',
-    'февруари'  => 'February',
-    'март'      => 'March',
-    'април'     => 'April',
-    'май'       => 'May',
-    'юни'       => 'June',
-    'юли'       => 'July',
-    'август'    => 'August',
-    'септември' => 'September',
-    'октомври'  => 'October',
-    'ноември'   => 'November',
-    'декември'  => 'December',
-  }.freeze
-
-  def remap
-    super.merge(REMAP)
-  end
-end
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -41,12 +18,8 @@ class OfficeholderList < OfficeholderListBase
       %w[_ name dates].freeze
     end
 
-    def tds
-      noko.css('td,th')
-    end
-
-    def date_class
-      Bulgarian
+    def raw_combo_date
+      super.gsub('...', 'Incumbent')
     end
   end
 end
