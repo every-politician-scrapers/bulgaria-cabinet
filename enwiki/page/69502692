@@ -129,26 +129,20 @@
           "flag_border": {
             "text": "true"
           },
-          "image": {
-            "text": "File:Petkov Government.jpg"
+          "incumbent": {
+            "text": "2021–present"
           },
-          "image_size": {
-            "text": "350px"
+          "image": {
+            "text": "Petkov Government.jpg"
+          },
+          "caption": {
+            "text": "The government takes the oath in the National Assembly"
           },
           "date_formed": {
             "text": "December 13, 2021"
           },
-          "government_head": {
-            "text": "Kiril Petkov, PP",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kiril Petkov"
-              }
-            ]
-          },
-          "deputy_government_head": {
-            "text": "Asen Vasilev, PP\n\nKalina Konstantinova, PP\n\nKorneliya Ninova, BSPzB\n\nGrozdan Karadzhov, ITN\n\nBorislav Sandov, DB"
+          "state_head_title": {
+            "text": "President"
           },
           "state_head": {
             "text": "Rumen Radev",
@@ -159,11 +153,29 @@
               }
             ]
           },
+          "government_head_title": {
+            "text": "Prime Minister"
+          },
+          "government_head": {
+            "text": "Kiril Petkov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kiril Petkov"
+              }
+            ]
+          },
+          "deputy_government_head_title": {
+            "text": "Deputy Prime Ministers"
+          },
+          "deputy_government_head": {
+            "text": "Asen Vasilev, PP\n\nKalina Konstantinova, PP\n\nKorneliya Ninova, BSPzB\n\nGrozdan Karadzhov, ITN\n\nBorislav Sandov, DB"
+          },
           "members_number": {
             "text": "21",
             "number": 21
           },
-          "political_party": {
+          "political_parties": {
             "text": "We Continue the Change (PP)\n\nBSP for Bulgaria (BSPzB)\n\nThere Is Such a People (ITN)\n\nDemocratic Bulgaria (DB)"
           },
           "legislature_status": {
@@ -181,24 +193,24 @@
               }
             ]
           },
-          "legislature_term": {
-            "text": "47th National Assembly"
-          },
-          "opposition_party": {
+          "opposition_parties": {
             "text": "GERB–SDS · DPS · Revival"
           },
-          "opposition_leader": {
+          "opposition_leaders": {
             "text": "Boyko Borisov · Mustafa Karadayi · Kostadin Kostadinov"
           },
           "election": {
-            "text": "November 2021 parliamentary election",
+            "text": "November 2021",
             "links": [
               {
-                "text": "November 2021 parliamentary election",
+                "text": "November 2021",
                 "type": "internal",
                 "page": "2021 Bulgarian general election"
               }
             ]
+          },
+          "legislature_term": {
+            "text": "47th National Assembly"
           },
           "predecessor": {
             "text": "Second Yanev Government",
@@ -228,557 +240,164 @@
     {
       "title": "Cabinet",
       "depth": 0,
-      "tables": [
-        [
-          {
-            "Role": {
-              "text": "Prime Minister"
-            },
-            "Incumbent": {
-              "text": "Kiril Petkov",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kiril Petkov"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "PP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Deputy Prime Minister for EU funds Minister of Finance"
-            },
-            "Incumbent": {
-              "text": "Asen Vasilev",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Asen Vasilev"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "PP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Deputy Prime Minister for Good Governance"
-            },
-            "Incumbent": {
-              "text": "Kalina Konstantinova",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kalina Konstantinova"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "PP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Deputy Prime Minister for Economy and Industry Minister of Economy and Industry"
-            },
-            "Incumbent": {
-              "text": "Korneliya Ninova",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Korneliya Ninova"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "BSP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Deputy Prime Minister for Regional Development and Public Works Minister of Regional Development and Public Works"
-            },
-            "Incumbent": {
-              "text": "Grozdan Karadjov",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Grozdan Karadjov"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "ITN"
-            }
-          },
-          {
-            "Role": {
-              "text": "Deputy Prime Minister for Climate Policies Minister of Environment and Water"
-            },
-            "Incumbent": {
-              "text": "Borislav Sandov",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Borislav Sandov"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "DB"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Education and Science"
-            },
-            "Incumbent": {
-              "text": "Nikolai Denkov",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nikolai Denkov"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "PP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Interior"
-            },
-            "Incumbent": {
-              "text": "Boyko Rashkov",
-              "links": [
-                {
-                  "text": "Boyko Rashkov",
-                  "type": "internal",
-                  "page": "Boiko Rashkov"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "PP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Defense"
-            },
-            "Incumbent": {
-              "text": "Dragomir Zakov",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Dragomir Zakov"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "Independent"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Health"
-            },
-            "Incumbent": {
-              "text": "Asena Serbezova",
-              "links": [
-                {
-                  "text": "Asena Serbezova",
-                  "type": "internal",
-                  "page": "Assena Serbezova"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "PP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Transport and Communications"
-            },
-            "Incumbent": {
-              "text": "Nikolai Sabev",
-              "links": [
-                {
-                  "text": "Nikolai Sabev",
-                  "type": "internal",
-                  "page": "Nikolai Subev"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "PP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Innovation and Growth"
-            },
-            "Incumbent": {
-              "text": "Daniel Lorer"
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "PP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Culture"
-            },
-            "Incumbent": {
-              "text": "Atanas Atanasov",
-              "links": [
-                {
-                  "text": "Atanas Atanasov",
-                  "type": "internal",
-                  "page": "Atanas Atanasov (actor)"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "PP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Labor and Social Policy"
-            },
-            "Incumbent": {
-              "text": "Georgi Gyokov",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Georgi Gyokov"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "BSP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Agriculture"
-            },
-            "Incumbent": {
-              "text": "Ivan Ivanov",
-              "links": [
-                {
-                  "text": "Ivan Ivanov",
-                  "type": "internal",
-                  "page": "Ivan Ivanov (politician)"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "BSP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Tourism"
-            },
-            "Incumbent": {
-              "text": "Hristo Prodanov",
-              "links": [
-                {
-                  "text": "Hristo Prodanov",
-                  "type": "internal",
-                  "page": "Hristo Prodanov (politician)"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "BSP"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Foreign Affairs"
-            },
-            "Incumbent": {
-              "text": "Teodora Genchovska",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Teodora Genchovska"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "ITN"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Energy"
-            },
-            "Incumbent": {
-              "text": "Alexander Nikolov",
-              "links": [
-                {
-                  "text": "Alexander Nikolov",
-                  "type": "internal",
-                  "page": "Alexander Nikolov (politician)"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "ITN"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Sports"
-            },
-            "Incumbent": {
-              "text": "Radostin Vassilev",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Radostin Vassilev"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "ITN"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of Justice"
-            },
-            "Incumbent": {
-              "text": "Nadezhda Yordanova",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nadezhda Yordanova"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "DB"
-            }
-          },
-          {
-            "Role": {
-              "text": "Minister of e-Government"
-            },
-            "Incumbent": {
-              "text": "Bozhidar Bozhanov",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bozhidar Bozhanov"
-                }
-              ]
-            },
-            "Party affiliation": {
-              "text": ""
-            },
-            "col4": {
-              "text": "DB"
-            }
-          }
-        ]
-      ],
       "templates": [
         {
-          "list": [
-            "We Continue the Change"
-          ],
-          "template": "party color"
+          "hiderefcol": "y",
+          "template": "cabinet table start"
         },
         {
-          "list": [
-            "We Continue the Change"
-          ],
-          "template": "party color"
+          "title": "Prime Minister",
+          "minister1": "Kiril Petkov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "We Continue the Change",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "We Continue the Change"
-          ],
-          "template": "party color"
+          "title": "Deputy Prime Minister for EU funds Minister of Finance",
+          "minister1": "Asen Vasilev",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "We Continue the Change",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "BSP for Bulgaria"
-          ],
-          "template": "party color"
+          "title": "Deputy Prime Minister for Good Governance",
+          "minister1": "Kalina Konstantinova",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "We Continue the Change",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "There Are Such People"
-          ],
-          "template": "party color"
+          "title": "Deputy Prime Minister for Economy and Industry Minister of Economy and Industry",
+          "minister1": "Korneliya Ninova",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "BSP for Bulgaria",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "Democratic Bulgaria"
-          ],
-          "template": "party color"
+          "title": "Deputy Prime Minister for Regional Development and Public Works Minister of Regional Development and Public Works",
+          "minister1": "Grozdan Karadjov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "There Are Such People",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "We Continue the Change"
-          ],
-          "template": "party color"
+          "title": "Deputy Prime Minister for Climate Policies Minister of Environment and Water",
+          "minister1": "Borislav Sandov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "Democratic Bulgaria",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "We Continue the Change"
-          ],
-          "template": "party color"
+          "title": "Minister of Education and Science",
+          "minister1": "Nikolai Denkov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "We Continue the Change",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "Independent politician"
-          ],
-          "template": "party color"
+          "title": "Minister of Interior",
+          "minister1": "Boyko Rashkov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "We Continue the Change",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "We Continue the Change"
-          ],
-          "template": "party color"
+          "title": "Minister of Defense",
+          "minister1": "Stefan Yanev",
+          "minister1_termstart": "13 December 2021",
+          "minister1_termend": "1 March 2022",
+          "minister1_party": "We Continue the Change",
+          "minister2": "Dragomir Zakov",
+          "minister2_termstart": "1 March 2022",
+          "minister2_party": "Independent politician",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "We Continue the Change"
-          ],
-          "template": "party color"
+          "title": "Minister of Health",
+          "minister1": "Asena Serbezova",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "We Continue the Change",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "We Continue the Change"
-          ],
-          "template": "party color"
+          "title": "Minister of Transport and Communications",
+          "minister1": "Nikolai Sabev",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "We Continue the Change",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "We Continue the Change"
-          ],
-          "template": "party color"
+          "title": "Minister of Innovation and Growth",
+          "minister1": "Daniel Lorer",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "We Continue the Change",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "BSP for Bulgaria"
-          ],
-          "template": "party color"
+          "title": "Minister of Culture",
+          "minister1": "Atanas Atanasov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "We Continue the Change",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "BSP for Bulgaria"
-          ],
-          "template": "party color"
+          "title": "Minister of Labor and Social Policy",
+          "minister1": "Georgi Gyokov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "BSP for Bulgaria",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "BSP for Bulgaria"
-          ],
-          "template": "party color"
+          "title": "Minister of Agriculture",
+          "minister1": "Ivan Ivanov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "BSP for Bulgaria",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "There Are Such People"
-          ],
-          "template": "party color"
+          "title": "Minister of Tourism",
+          "minister1": "Hristo Prodanov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "BSP for Bulgaria",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "There Are Such People"
-          ],
-          "template": "party color"
+          "title": "Minister of Foreign Affairs",
+          "minister1": "Teodora Genchovska",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "There Are Such People",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "There Are Such People"
-          ],
-          "template": "party color"
+          "title": "Minister of Energy",
+          "minister1": "Alexander Nikolov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "There Are Such People",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "Democratic Bulgaria"
-          ],
-          "template": "party color"
+          "title": "Minister of Sports",
+          "minister1": "Radostin Vassilev",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "There Are Such People",
+          "template": "cabinet table minister"
         },
         {
-          "list": [
-            "Democratic Bulgaria"
-          ],
-          "template": "party color"
+          "title": "Minister of Justice",
+          "minister1": "Nadezhda Yordanova",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "Democratic Bulgaria",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of e-Government",
+          "minister1": "Bozhidar Bozhanov",
+          "minister1_termstart": "13 December 2021",
+          "minister1_party": "Democratic Bulgaria",
+          "template": "cabinet table minister"
+        },
+        {
+          "template": "cabinet table end"
         }
       ],
       "references": [
