@@ -5,7 +5,7 @@ require 'every_politician_scraper/comparison'
 
 # Not listed on the site
 SKIP = [
-  ['---', 'Stefan Janev', 'Prime Minister of Bulgaria']
+  ['---', 'Kiril Petkov', 'Prime Minister of Bulgaria']
 ].freeze
 
 diff = EveryPoliticianScraper::NulllessComparison.new('wikidata.csv', 'scraped.csv').diff
