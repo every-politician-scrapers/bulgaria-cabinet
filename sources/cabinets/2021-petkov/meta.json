@@ -1,0 +1,17 @@
+{
+    "jurisdiction": {
+      "name": "Bulgaria",
+      "id": "Q219"
+    },
+    "cabinet": {
+      "id": "Q110026114",
+      "start": "2021-12-13",
+      "parent": "Q2396053"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Petkov_Government"
+    },
+    "person_description": {
+        "en": "Bulgarian politician"
+    }
+}

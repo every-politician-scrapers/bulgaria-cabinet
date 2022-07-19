@@ -1,0 +1,18 @@
+@@,item,itemlabel,position,positionlabel,startdate,enddate
+->,Q110153962,Alexander Nikolov,Q20499298,Minister of Energy,2021-12-13,NULL->2022-06-08
+---,Q12272416,Asen Vasilev,Q20675830,Minister of Finance of Bulgaria,2021-12-13,
+---,Q12272416,Asen Vasilev,Q20500945,Deputy Prime Minister for EU Funds Management,2021-12-13,
++++,Q12272416,Asen Vasilev,,Deputy Prime Minister for EU funds,2021-12-13,
++++,Q12272416,Asen Vasilev,,Minister of Finance,2021-12-13,
+->,Q28599818,Boyko Rashkov,Q27990802,Minister of Interior of Bulgaria->Minister of Interior,2021-12-13,
+->,Q17409292,Georgi Gyokov,Q25477936,Minister of Labor and Social Policies->Minister of Labor and Social Policy,2021-12-13,
+->,Q110071439,Grozdan Karadjov,Q107657466,Minister of Regional Development and Public Works,2021-12-13,NULL->2022-06-08
+---,Q110071439,Grozdan Karadjov,Q12280307,Deputy Prime Minister of Bulgaria,2021-12-13,
++++,Q110071439,Grozdan Karadjov,,Deputy Prime Minister for Regional Development and Public Works,2021-12-13,2022-06-08
+->,Q106928258,Kiril Petkov,Q4404583,Prime Minister of Bulgaria->Prime Minister,2021-12-13,
+->,Q110153990->Q110207131,Nadezhda Yordanova,Q21027776,Minister of Justice,2021-12-13,
+->,Q28536878,Nikolay Denkov->Nikolai Denkov,Q25478039,Minister of Education and Science,2021-05-12->2021-12-13,
+->,Q110153814,Nikolay Sabev->Nikolai Sabev,Q107657641,Minister of Transport and Communications,2021-12-13,
+->,Q110153996,Radostin Vasilev->Radostin Vassilev,Q110153998,Minister of Sports,2021-12-13,NULL->2022-06-08
+->,Q28055319,Stefan Janev->Stefan Yanev,Q16157395,Minister of Defense,2021-12-13,2022-03-01
+->,Q110089977,Teodora Genchovska,Q15916856,Minister of Foreign Affairs of Bulgaria->Minister of Foreign Affairs,2021-12-13,NULL->2022-06-08
