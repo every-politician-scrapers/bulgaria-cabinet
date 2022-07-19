@@ -1,0 +1,247 @@
+{
+  "title": "Kalina Konstantinova",
+  "pageID": 69505401,
+  "categories": [
+    "1984 births",
+    "Living people",
+    "Bulgarian politicians",
+    "Bard College alumni",
+    "People from Sofia",
+    "Government ministers of Bulgaria"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kalina Konstantinova (Bulgarian: Калина Константинова; born 18 May 1984) is a Bulgarian entrepreneur and politician.",
+              "links": [
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgarian language"
+                },
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgarians"
+                },
+                {
+                  "text": "entrepreneur",
+                  "type": "internal",
+                  "page": "Entrepreneurship"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kalina Konstantinova"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bulgarian entrepreneur and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1984",
+          "month": "5",
+          "day": "18",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "native_name_lang": {
+            "text": "bg"
+          },
+          "office": {
+            "text": "Deputy Prime Minister for Effective Government"
+          },
+          "termstart": {
+            "text": "13 December 2021"
+          },
+          "primeminister": {
+            "text": "Kiril Petkov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kiril Petkov"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Deputy Minister of Economy",
+            "links": [
+              {
+                "text": "Deputy Minister of Economy",
+                "type": "internal",
+                "page": "Ministry of Economy, Energy and Tourism (Bulgaria)"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "12 May 2021"
+          },
+          "termend2": {
+            "text": "16 September 2021"
+          },
+          "1blankname2": {
+            "text": "Minister"
+          },
+          "1namedata2": {
+            "text": "Kiril Petkov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kiril Petkov"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Lachezar Borisov"
+          },
+          "successor2": {
+            "text": "Ivelina Peneva"
+          },
+          "birth_place": {
+            "text": "Sofia, Bulgaria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sofia"
+              }
+            ]
+          },
+          "native_name": {
+            "text": "Калина Константинова"
+          },
+          "birth_date": {
+            "text": "May 18, 1984"
+          },
+          "birth_name": {
+            "text": "Kalina Borislavova Konstantinova"
+          },
+          "party": {
+            "text": "We Continue the Change",
+            "links": [
+              {
+                "type": "internal",
+                "page": "We Continue the Change"
+              }
+            ]
+          },
+          "children": {
+            "text": "1",
+            "number": 1
+          },
+          "occupation": {
+            "text": "Politician · economist · entrepreneur"
+          },
+          "alma_mater": {
+            "text": "Bard College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bard College"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kalina Kostantinova was born in Sofia, Bulgaria on 18 May 1984.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sofia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bulgaria"
+                }
+              ]
+            },
+            {
+              "text": "She studied at Lycée Français de Sofia and after that graduated from Bard College specialising in Economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lycée Français de Sofia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bard College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Economics"
+                }
+              ]
+            },
+            {
+              "text": "Konstantinova holds a master's degree in Sustainable development from London School of Economics.",
+              "links": [
+                {
+                  "text": "master's degree",
+                  "type": "internal",
+                  "page": "master's degree"
+                },
+                {
+                  "type": "internal",
+                  "page": "London School of Economics"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "January 2022",
+          "template": "citation needed"
+        },
+        {
+          "date": "January 2022",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

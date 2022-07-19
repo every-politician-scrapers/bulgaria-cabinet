@@ -1,0 +1,230 @@
+{
+  "title": "Assena Serbezova",
+  "pageID": 69602374,
+  "categories": [
+    "Medical University, Sofia faculty",
+    "1973 births",
+    "Living people",
+    "Health ministers of Bulgaria",
+    "Women government ministers of Bulgaria",
+    "Women pharmacists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Asena Serbezova (Cyrillic script: Асена Сербезова, born March 30, 1973) is a Bulgarian pharmacist and university teacher, minister of health from 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cyrillic script"
+                },
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgaria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Asena Serbezova"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bulgarian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1973",
+          "month": "3",
+          "day": "30",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Asena Serbezova"
+          },
+          "office": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Health"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "December 13, 2021"
+          },
+          "predecessor": {
+            "text": "Stoicho Katsarov"
+          },
+          "birth_name": {
+            "text": "Асена Сербезова"
+          },
+          "birth_date": {
+            "text": "March 30, 1973"
+          },
+          "occupation": {
+            "text": "politician"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1996, she graduated in pharmacy from the Medical University of Sofia.",
+              "links": [
+                {
+                  "text": "Medical University of Sofia",
+                  "type": "internal",
+                  "page": "Medical University, Sofia"
+                }
+              ]
+            },
+            {
+              "text": "She obtained a master's degree in health service organization at her alma mater, health policy and pharmacoeconomics at Pompeu Fabra University and psychology at the Veliko Tarnovo University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pompeu Fabra University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Veliko Tarnovo University"
+                }
+              ]
+            },
+            {
+              "text": "Saints Cyril and Methodius."
+            },
+            {
+              "text": "Professionally associated with the pharmaceutical industry, she worked in drug distribution companies and in institutions responsible for clinical trials."
+            },
+            {
+              "text": "As an academic teacher associated with the Medical University of Sofia, where she took a professorship."
+            },
+            {
+              "text": "She was chairman of the quality committee of the Bulgarian pharmaceutical association BFS (2007-2010) and vice-chairman of that organization (2010-2013)."
+            },
+            {
+              "text": "From 2014 to 2018, she was the Executive Director of the Medicines Executive Agency at the Minister of Health, and was also a member of the management of the European Medicines Agency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Medicines Agency"
+                }
+              ]
+            },
+            {
+              "text": "In 2020, elected president of the BFS."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2021, on the recommendation of the group We Continue the Change, she took the position of health minister in the newly formed government of Kiril Petkov.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "We Continue the Change"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kiril Petkov"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.bta.bg/bg",
+          "title": "Новини - Българска Телеграфна Агенция",
+          "publisher": "Bta.bg",
+          "date": "2014-07-28",
+          "accessdate": "2021-12-26",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.bta.bg/bg",
+          "title": "Новини - Българска Телеграфна Агенция",
+          "publisher": "Bta.bg",
+          "date": "2014-07-28",
+          "accessdate": "2021-12-26",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.bta.bg/bg",
+          "title": "Новини - Българска Телеграфна Агенция",
+          "publisher": "Bta.bg",
+          "date": "2014-07-28",
+          "accessdate": "2021-12-26",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "София",
+          "url": "https://dariknews.bg/novini/bylgariia/sluzhebnoto-pravitelstvo-predade-vlastta-na-ministrite-ot-kabineta-petkov-2293926",
+          "title": "Служебното правителство предаде властта на министрите от кабинета „Петков“ - България",
+          "publisher": "DarikNews.bg",
+          "date": "2021-12-13",
+          "accessdate": "2021-12-26",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "София",
+          "url": "https://dariknews.bg/novini/bylgariia/koia-e-asena-serbezova-ministyr-na-zdraveopazvaneto-2293869",
+          "title": "Коя е Асена Сербезова - министър на здравеопазването - България",
+          "publisher": "DarikNews.bg",
+          "date": "2021-12-13",
+          "accessdate": "2021-12-26",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
