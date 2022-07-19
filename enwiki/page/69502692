@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "The Petkov Government, known as the Four-party coalition cabinet, is the ninety-sixth cabinet of Bulgaria.",
+              "text": "The Petkov Government, known as the Four-party coalition cabinet until June 2022, is the ninety-sixth cabinet of Bulgaria.",
               "links": [
                 {
                   "type": "internal",
@@ -25,7 +25,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Petkov Government"
+                  "Petkov Government",
+                  "Four-party coalition cabinet"
                 ]
               }
             },
@@ -50,6 +51,49 @@
                   "text": "November 2021 parliamentary election",
                   "type": "internal",
                   "page": "2021 Bulgarian general election"
+                }
+              ]
+            },
+            {
+              "text": "The government became a Minority government on 8 June 2022, when ITN pulled out of the government, and its mandate ended in late June 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minority government"
+                },
+                {
+                  "text": "ITN",
+                  "type": "internal",
+                  "page": "There Is Such a People"
+                },
+                {
+                  "text": "pulled out of the government",
+                  "type": "internal",
+                  "page": "There Is Such a People",
+                  "anchor": "Withdrawal from government and split"
+                }
+              ]
+            },
+            {
+              "text": "It is the first government in Bulgarian history to lose a vote of confidence.",
+              "links": [
+                {
+                  "text": "vote of confidence",
+                  "type": "internal",
+                  "page": "Motion of no confidence"
+                }
+              ]
+            },
+            {
+              "text": "On 1 July, Bulgarian President Rumen Radev asked Asen Vasilev to form a new government, which Vasilev failed to do.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rumen Radev"
+                },
+                {
+                  "type": "internal",
+                  "page": "Asen Vasilev"
                 }
               ]
             }
@@ -81,10 +125,15 @@
             "Asen Vasilev, PP",
             "Kalina Konstantinova, PP",
             "Korneliya Ninova, BSPzB",
-            "Grozdan Karadzhov, ITN",
             "Borislav Sandov, DB"
           ],
           "template": "ubl"
+        },
+        {
+          "list": [
+            "There Is Such a People (ITN) pulled out of the coalition on 8 June 2022."
+          ],
+          "template": "efn"
         },
         {
           "list": [
@@ -104,6 +153,22 @@
         {
           "list": [
             "134",
+            "240",
+            ""
+          ],
+          "border border-color": "darkgray",
+          "per": "1",
+          "template": "composition bar"
+        },
+        {
+          "list": [
+            "We Continue the Change"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "109",
             "240",
             ""
           ],
@@ -130,7 +195,7 @@
             "text": "true"
           },
           "incumbent": {
-            "text": "2021–present"
+            "text": "2021–"
           },
           "image": {
             "text": "Petkov Government.jpg"
@@ -169,17 +234,17 @@
             "text": "Deputy Prime Ministers"
           },
           "deputy_government_head": {
-            "text": "Asen Vasilev, PP\n\nKalina Konstantinova, PP\n\nKorneliya Ninova, BSPzB\n\nGrozdan Karadzhov, ITN\n\nBorislav Sandov, DB"
+            "text": "Asen Vasilev, PP\n\nKalina Konstantinova, PP\n\nKorneliya Ninova, BSPzB\n\nBorislav Sandov, DB"
           },
           "members_number": {
-            "text": "21",
-            "number": 21
+            "text": "17",
+            "number": 17
           },
           "political_parties": {
             "text": "We Continue the Change (PP)\n\nBSP for Bulgaria (BSPzB)\n\nThere Is Such a People (ITN)\n\nDemocratic Bulgaria (DB)"
           },
           "legislature_status": {
-            "text": "Majority coalition",
+            "text": "Majority coalition (until 8 June 2022) \nMinority coalition (from 8 June 2022)",
             "links": [
               {
                 "text": "Majority",
@@ -190,11 +255,21 @@
                 "text": "coalition",
                 "type": "internal",
                 "page": "Coalition government"
+              },
+              {
+                "text": "Minority",
+                "type": "internal",
+                "page": "Minority government"
+              },
+              {
+                "text": "coalition",
+                "type": "internal",
+                "page": "Coalition government"
               }
             ]
           },
           "opposition_parties": {
-            "text": "GERB–SDS · DPS · Revival"
+            "text": "GERB–SDS · DPS · ITN · Revival"
           },
           "opposition_leaders": {
             "text": "Boyko Borisov · Mustafa Karadayi · Kostadin Kostadinov"
@@ -232,6 +307,23 @@
           "work": "Politico",
           "date": "13 December 2021",
           "accessdate": "13 December 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Bulgaria's ITN party exits coalition government",
+          "url": "https://www.reuters.com/world/europe/bulgarias-itn-party-exits-coalition-government-2022-06-08/",
+          "access-date": "8 June 2022",
+          "publisher": "Reuters",
+          "date": "8 June 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Bulgarian Finance Minister Handed Mandate To Form Government",
+          "url": "https://www.rferl.org/a/31925048.html",
+          "publisher": "Radio Free Europe/Radio Liberty",
+          "date": "1 July 2022",
           "template": "citation",
           "type": "news"
         }
@@ -277,7 +369,8 @@
           "title": "Deputy Prime Minister for Regional Development and Public Works Minister of Regional Development and Public Works",
           "minister1": "Grozdan Karadjov",
           "minister1_termstart": "13 December 2021",
-          "minister1_party": "There Are Such People",
+          "minister1_termend": "8 June 2022",
+          "minister1_party": "There Is Such a People",
           "template": "cabinet table minister"
         },
         {
@@ -365,21 +458,24 @@
           "title": "Minister of Foreign Affairs",
           "minister1": "Teodora Genchovska",
           "minister1_termstart": "13 December 2021",
-          "minister1_party": "There Are Such People",
+          "minister1_termend": "8 June 2022",
+          "minister1_party": "There Is Such a People",
           "template": "cabinet table minister"
         },
         {
           "title": "Minister of Energy",
           "minister1": "Alexander Nikolov",
           "minister1_termstart": "13 December 2021",
-          "minister1_party": "There Are Such People",
+          "minister1_termend": "8 June 2022",
+          "minister1_party": "There Is Such a People",
           "template": "cabinet table minister"
         },
         {
           "title": "Minister of Sports",
           "minister1": "Radostin Vassilev",
           "minister1_termstart": "13 December 2021",
-          "minister1_party": "There Are Such People",
+          "minister1_termend": "8 June 2022",
+          "minister1_party": "There Is Such a People",
           "template": "cabinet table minister"
         },
         {
@@ -591,6 +687,161 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Changes",
+      "depth": 1
+    },
+    {
+      "title": "From 1 March 2022",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 1 March 2022 the minister of defence Stefan Yanev's resignation was approved by the National Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stefan Yanev"
+                }
+              ]
+            },
+            {
+              "text": "Dragomir Zakov was appointed as new defence minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dragomir Zakov"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "From June 2022",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 8 June the leader of ITN Slavi Trifonov aired a television announcement that his party was leaving the coalition.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Slavi Trifonov"
+                }
+              ]
+            },
+            {
+              "text": "On the 9th Vice Prime minister Grozdan Karadjov resigned, followed by minister of youth and sport Radostin Vasilev the next day.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Grozdan Karadjov"
+                },
+                {
+                  "type": "internal",
+                  "page": "Radostin Vasilev"
+                }
+              ]
+            },
+            {
+              "text": "On the 13th minister of Energy Aleksandar Nikolov and minister of foreign affairs Teodora Genchovska also resigned.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aleksandar Nikolov"
+                },
+                {
+                  "type": "internal",
+                  "page": "Teodora Genchovska"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Removal",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After ITN left the government, GERB tabled a vote of no confidence in the government, which was scheduled for 22 June 2022.",
+              "links": [
+                {
+                  "text": "ITN",
+                  "type": "internal",
+                  "page": "There Is Such a People"
+                },
+                {
+                  "type": "internal",
+                  "page": "GERB"
+                }
+              ]
+            },
+            {
+              "text": "6 ITN deputies left the party to support the government."
+            },
+            {
+              "text": "Several rallies in support of the government, as well as protests against it were held in the days coming up to the vote."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 22 June, the vote was held, with 123 votes against the government and 116 for it."
+            },
+            {
+              "text": "All 3 remaining parties in the coalition, the 6 ITN defectors, and by mistake one DPS MP voted for the government, with all other MPs voting against it.",
+              "links": [
+                {
+                  "text": "DPS",
+                  "type": "internal",
+                  "page": "Movement for Rights and Freedoms"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Tsolova",
+          "first": "Tsvetelia",
+          "date": "22 June 2022",
+          "title": "Bulgarian government faces no-confidence vote and political turmoil",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/europe/bulgarian-government-faces-no-confidence-vote-political-turmoil-2022-06-22/",
+          "access-date": "22 June 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "22 June 2022",
+          "title": "Fresh turmoil for Bulgaria as govt loses confidence vote",
+          "work": "AFP",
+          "url": "https://www.msn.com/en-us/news/world/fresh-turmoil-for-bulgaria-as-govt-loses-confidence-vote/ar-AAYJDaX",
+          "access-date": "22 June 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "notelist"
         }
       ]
     },
