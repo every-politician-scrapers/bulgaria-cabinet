@@ -1,0 +1,250 @@
+{
+  "title": "Nadezhda Yordanova",
+  "pageID": 69557653,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "21st-century Bulgarian politicians",
+    "21st-century Bulgarian women politicians",
+    "Bulgarian jurists",
+    "Sofia University alumni",
+    "People from Kubrat (town)",
+    "Women government ministers of Bulgaria",
+    "Justice ministers of Bulgaria",
+    "Female justice ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nadezhda Yordanova (Bulgarian: Надежда Йорданова; born 6 March 1973) is a Bulgarian jurist and politician.",
+              "links": [
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgarian language"
+                },
+                {
+                  "text": "Bulgarian",
+                  "type": "internal",
+                  "page": "Bulgarians"
+                },
+                {
+                  "text": "jurist",
+                  "type": "internal",
+                  "page": "jurist"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nadezhda Yordanova"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bulgarian jurist and politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1973",
+          "month": "3",
+          "day": "6",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "The University of Law"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice (Bulgaria)"
+              }
+            ]
+          },
+          "native_name": {
+            "text": "Надежда Йорданова"
+          },
+          "native_name_lang": {
+            "text": "bg"
+          },
+          "predecessor": {
+            "text": "Ivan Demerdzhiev"
+          },
+          "primeminister": {
+            "text": "Kiril Petkov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kiril Petkov"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "13 December 2021"
+          },
+          "party": {
+            "text": "Democratic Bulgaria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Bulgaria"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Nadezhda Georgieva Yordanova"
+          },
+          "birth_date": {
+            "text": "March 6, 1973"
+          },
+          "birth_place": {
+            "text": "Kubrat, Bulgaria",
+            "links": [
+              {
+                "text": "Kubrat",
+                "type": "internal",
+                "page": "Kubrat (town)"
+              }
+            ]
+          },
+          "children": {
+            "text": "1",
+            "number": 1
+          },
+          "alma_mater": {
+            "text": "The University of LawSofia University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sofia University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician · jurist"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nadezhda Yordanova was born in Kubrat, Bulgaria on 6 March 1973.",
+              "links": [
+                {
+                  "text": "Kubrat",
+                  "type": "internal",
+                  "page": "Kubrat (town)"
+                }
+              ]
+            },
+            {
+              "text": "She studied at Sofia University, specializing in English trading rights in The University of Law.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sofia University"
+                },
+                {
+                  "text": "The University of Law",
+                  "type": "internal",
+                  "page": "University of Law"
+                }
+              ]
+            },
+            {
+              "text": "From 2007 she was registered in a legal agency in Razgrad.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Razgrad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 13 December 2021 she was appointed as Minister of Justice in the cabinet of Kiril Petkov.",
+              "links": [
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Bulgaria)"
+                },
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Petkov Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kiril Petkov"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is married and has one child."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Коя е Надежда Йорданова - министър на правосъдието - България",
+          "url": "https://dariknews.bg/novini/bylgariia/koia-e-nadezhda-iordanova-ministyr-na-pravosydieto-2293871",
+          "access-date": "2021-12-20",
+          "website": "dariknews.bg",
+          "language": "bg",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "НС избра новия кабинет с премиер Кирил Петков - По света и у нас - БНТ Новини",
+          "url": "https://bntnews.bg/news/ns-izbra-noviya-kabinet-s-premier-kiril-petkov-1178531news.html",
+          "access-date": "2021-12-20",
+          "website": "bntnews.bg",
+          "language": "bg",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
