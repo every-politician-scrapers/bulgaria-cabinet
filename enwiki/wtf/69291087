@@ -66,6 +66,9 @@
       ],
       "infoboxes": [
         {
+          "native_name": {
+            "text": "Асен Василев"
+          },
           "native_name_lang": {
             "text": "bg"
           },
@@ -73,7 +76,7 @@
             "text": "Assen Vassilev.jpg"
           },
           "caption": {
-            "text": "Vasilev in 2020"
+            "text": "Vasilev in 2021"
           },
           "office": {
             "text": "Deputy Prime Minister of Bulgaria"
