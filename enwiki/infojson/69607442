@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Minister of Education and Science"
+    },
+    "P580": "2014-08",
+    "P582": "2016-04"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education and Science"
+    },
+    "P580": "2017-01-27",
+    "P1365": {
+      "links": [
+        "Todor Tanev"
+      ],
+      "stated_as": "Todor Tanev"
+    },
+    "P582": "2017-05-04",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Krasimir Valchev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education and Science"
+    },
+    "P580": "2021-05-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Krasimir Valchev"
+    }
+  }
+]

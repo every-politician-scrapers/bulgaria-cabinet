@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly (Bulgaria)"
+      ],
+      "stated_as": "Member of the\nBulgarian National Assembly"
+    },
+    "P580": "2021-11-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Transport, Information Technology and Communications (Bulgaria)"
+      ],
+      "stated_as": "Minister of Transport and Communications"
+    },
+    "P580": "2021-12-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Hristo Alexiev"
+    }
+  }
+]
