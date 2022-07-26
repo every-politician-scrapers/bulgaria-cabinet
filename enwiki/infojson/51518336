@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "Bulgarian Socialist Party"
+      ],
+      "stated_as": "Leader of the Socialist Party"
+    },
+    "P580": "2016-05-08",
+    "P1365": {
+      "links": [
+        "Mihail Mikov"
+      ],
+      "stated_as": "Mihail Mikov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Prime Minister of Bulgaria"
+    },
+    "P580": "2021-12-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy and Industry (Bulgaria)"
+      ],
+      "stated_as": "Minister of Economy and Industry"
+    },
+    "P580": "2021-12-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Daniela Vezieva (as Minister of Economy)"
+    }
+  }
+]

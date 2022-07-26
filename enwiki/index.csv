@@ -1,18 +1,18 @@
-pageid,title
-23764236,Yordanka Fandakova
-34677899,Iliana Iotova
-51518336,Korneliya Ninova
-51575780,Rumen Radev
-57067398,Dimitar Radev
-68529982,Atanas Atanasov (politician)
-69029077,Kiril Petkov
-69291087,Asen Vasilev
-69403507,Borislav Sandov
-69505401,Kalina Konstantinova
-69540464,Grozdan Karadzhov
-69557653,Nadezhda Yordanova
-69602374,Assena Serbezova
-69602460,Boiko Rashkov
-69607442,Nikolai Denkov
-69607802,Nikolai Subev
-70525717,Dragomir Zakov
+pageid,title,wikidata,label
+23764236,Yordanka Fandakova,Q444718,Yordanka Fandakova
+34677899,Iliana Iotova,Q433338,Iliana Yotova
+51518336,Korneliya Ninova,Q12283736,Korneliya Ninova
+51575780,Rumen Radev,Q26257557,Rumen Radev
+57067398,Dimitar Radev,Q25431484,Dimitar Radev
+68529982,Atanas Atanasov (politician),Q12272540,Atanas Atanasov
+69029077,Kiril Petkov,Q106928258,Kiril Petkov
+69291087,Asen Vasilev,Q12272416,Asen Vasilev
+69403507,Borislav Sandov,Q23661772,Borislav Sandov
+69505401,Kalina Konstantinova,Q110070893,Kalina Konstantinova
+69540464,Grozdan Karadzhov,Q110071439,Grozdan Karadjov
+69557653,Nadezhda Yordanova,Q110153990,Nadezhda Yordanova
+69602374,Assena Serbezova,Q110153983,Asena Serbezova
+69602460,Boiko Rashkov,Q28599818,Boyko Rashkov
+69607442,Nikolai Denkov,Q28536878,Nikolay Denkov
+69607802,Nikolai Subev,Q110153814,Nikolay Sabev
+70525717,Dragomir Zakov,Q111043880,Dragomir Zakov

@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy, Energy and Tourism (Bulgaria)"
+      ],
+      "stated_as": "Minister of Economy"
+    },
+    "P580": "2021-05-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Lachezar Borisov"
+    },
+    "P582": "2021-09-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Daniela Vezieva"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "We Continue the Change"
+      ],
+      "stated_as": "Co-Leader of We Continue the Change"
+    },
+    "P580": "2021-09-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Bulgaria"
+      ],
+      "stated_as": "Prime Minister of Bulgaria"
+    },
+    "P580": "2021-12-13",
+    "P1365": {
+      "links": [
+        "Stefan Yanev"
+      ],
+      "stated_as": "Stefan Yanev"
+    }
+  }
+]

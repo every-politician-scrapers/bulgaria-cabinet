@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education and Science"
+    },
+    "P580": "2009-07-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Daniel Valchev"
+    },
+    "P582": "2009-11-19",
+    "P1366": {
+      "links": [
+        "Sergei Ignatov"
+      ],
+      "stated_as": "Sergei Ignatov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Mayor of Sofia"
+    },
+    "P580": "2009-11-23",
+    "P1365": {
+      "links": [
+        "Boyko Borisov"
+      ],
+      "stated_as": "Boyko Borisov"
+    },
+    "P582": "2011-10-06",
+    "P1366": {
+      "links": [
+        "Maria Boyadzhiyska"
+      ],
+      "stated_as": "Maria Boyadzhiyska (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Mayor of Sofia"
+    },
+    "P1545": "64",
+    "P580": "2011-11-08",
+    "P1365": {
+      "links": [
+        "Maria Boyadzhiyska"
+      ],
+      "stated_as": "Maria Boyadzhiyska (acting)"
+    }
+  }
+]

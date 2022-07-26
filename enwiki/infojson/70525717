@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Permanent Representative of Bulgaria to NATO"
+    },
+    "P580": "2019-03-25",
+    "P582": "2022-03-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Bulgaria)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2022-03-01",
+    "P1365": {
+      "links": [
+        "Stefan Yanev"
+      ],
+      "stated_as": "Stefan Yanev"
+    }
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy, Energy and Tourism (Bulgaria)"
+      ],
+      "stated_as": "Minister of Economy, Energy and Tourism"
+    },
+    "P580": "2013-03-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Delyan Dobrev"
+    },
+    "P582": "2013-05-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Dragomir Stoynev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Bulgaria)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2021-05-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Kiril Ananiev"
+    },
+    "P582": "2021-09-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Valery Beltchev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "We Continue the Change"
+      ],
+      "stated_as": "Co-Leader of We Continue the Change"
+    },
+    "P580": "2021-09-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Prime Minister of Bulgaria"
+    },
+    "P580": "2021-12-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Bulgaria)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2021-12-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Valery Beltchev"
+    }
+  }
+]
